@@ -81,7 +81,7 @@ function App() {
     <div className="main-bg" style={{  minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '2vw' }}>
       <div className="container" style={{ background: '#fff', border: 'none', borderRadius: '18px', padding: '2rem 1.2rem', width: '100%', maxWidth: '1200px', margin: '0 auto', display: 'flex', flexDirection: 'column', alignItems: 'stretch', boxShadow: '0 6px 32px #ff980022', boxSizing: 'border-box' }}>
              <div style={{ width: 48, height: 48, borderRadius: '50%', margin: '0 auto', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <img src="public/hf-mini.png" alt="Unlock" style={{ width: '80%', height: '80%' }} />
+            <img src="/hf-mini.png" alt="Unlock" style={{ width: '80%', height: '80%' }} />
           </div>
         <h1 className="title" style={{ fontFamily: 'Montserrat, Arial, sans-serif', letterSpacing: '1.5px', color: '#ff5a00', fontWeight: 700, fontSize: '1.5rem', textAlign: 'center', marginBottom: '1.5rem', textShadow: '0 2px 12px #ff980033' }}>Questionz</h1>
   {/* ...existing code... */}

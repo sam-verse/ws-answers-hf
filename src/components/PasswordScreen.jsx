@@ -31,7 +31,7 @@ export default function PasswordScreen({ onUnlock }) {
   <div style={{ background: '#fff', borderRadius: '18px', boxShadow: '0 6px 10px #ff980022', padding: '1.5rem 1.2rem', maxWidth: 400, width: '100%', textAlign: 'center', margin: '0 auto' }}>
         <div style={{ marginBottom: '1.2rem' }}>
           <div style={{ width: 45, height: 45, borderRadius: '50%', margin: '0 auto', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <img src="public/hf-mini.png" alt="Unlock" style={{ width: '80%', height: '80%' }} />
+            <img src="/hf-mini.png" alt="Unlock" style={{ width: '80%', height: '80%' }} />
           </div>
         </div>
         <h2 style={{ color: '#fff5200', fontWeight: 700, fontSize: '1.3rem', marginBottom: '0.7rem', fontFamily: 'Montserrat, Arial, sans-serif' }}>Enter Access Code</h2>
