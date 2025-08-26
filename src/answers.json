@@ -1,0 +1,4652 @@
+{
+  "HFWS01": [
+    {
+      "word": "STRREPLACE",
+      "direction": "NW",
+      "start": { "row": 24, "col": 26 },
+      "end": { "row": 15, "col": 17 }
+    },
+    {
+      "word": "OBJECTLIFECYCLE",
+      "direction": "E",
+      "start": { "row": 9, "col": 21 },
+      "end": { "row": 9, "col": 35 }
+    },
+    {
+      "word": "OPCODEHANDLER",
+      "direction": "SW",
+      "start": { "row": 4, "col": 35 },
+      "end": { "row": 16, "col": 23 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "SW",
+      "start": { "row": 21, "col": 32 },
+      "end": { "row": 30, "col": 23 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "S",
+      "start": { "row": 24, "col": 19 },
+      "end": { "row": 30, "col": 19 }
+    },
+    {
+      "word": "GCROOTS",
+      "direction": "E",
+      "start": { "row": 9, "col": 7 },
+      "end": { "row": 9, "col": 13 }
+    },
+    {
+      "word": "CHERRYPY",
+      "direction": "N",
+      "start": { "row": 11, "col": 1 },
+      "end": { "row": 4, "col": 1 }
+    },
+    {
+      "word": "PANDASFRAME",
+      "direction": "SE",
+      "start": { "row": 10, "col": 25 },
+      "end": { "row": 20, "col": 35 }
+    },
+    {
+      "word": "MIDDLEWARE",
+      "direction": "N",
+      "start": { "row": 11, "col": 4 },
+      "end": { "row": 2, "col": 4 }
+    },
+    {
+      "word": "SLOOBJECTIVES",
+      "direction": "NE",
+      "start": { "row": 26, "col": 16 },
+      "end": { "row": 14, "col": 28 }
+    }
+  ],
+  "HFWS02": [
+    {
+      "word": "ARGCOUNT",
+      "direction": "N",
+      "start": { "row": 12, "col": 7 },
+      "end": { "row": 5, "col": 7 }
+    },
+    {
+      "word": "OPCODEJUMP",
+      "direction": "S",
+      "start": { "row": 5, "col": 6 },
+      "end": { "row": 14, "col": 6 }
+    },
+    {
+      "word": "MRORESOLUTION",
+      "direction": "S",
+      "start": { "row": 5, "col": 28 },
+      "end": { "row": 17, "col": 28 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "N",
+      "start": { "row": 23, "col": 11 },
+      "end": { "row": 18, "col": 11 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "W",
+      "start": { "row": 20, "col": 26 },
+      "end": { "row": 20, "col": 18 }
+    },
+    {
+      "word": "SUBPROCESS",
+      "direction": "SE",
+      "start": { "row": 25, "col": 7 },
+      "end": { "row": 34, "col": 16 }
+    },
+    {
+      "word": "CONTINUOUSDELIVERY",
+      "direction": "W",
+      "start": { "row": 18, "col": 31 },
+      "end": { "row": 18, "col": 14 }
+    },
+    {
+      "word": "FUZZING",
+      "direction": "N",
+      "start": { "row": 11, "col": 8 },
+      "end": { "row": 5, "col": 8 }
+    },
+    {
+      "word": "SCIKITLEARN",
+      "direction": "NE",
+      "start": { "row": 29, "col": 21 },
+      "end": { "row": 19, "col": 31 }
+    },
+    {
+      "word": "INTERRUPTSIGNAL",
+      "direction": "N",
+      "start": { "row": 29, "col": 12 },
+      "end": { "row": 15, "col": 12 }
+    }
+  ],
+  "HFWS03": [
+    {
+      "word": "JOINPATH",
+      "direction": "S",
+      "start": { "row": 12, "col": 34 },
+      "end": { "row": 19, "col": 34 }
+    },
+    {
+      "word": "STACKUNWINDING",
+      "direction": "NW",
+      "start": { "row": 23, "col": 32 },
+      "end": { "row": 10, "col": 19 }
+    },
+    {
+      "word": "INTERNALSPEC",
+      "direction": "N",
+      "start": { "row": 28, "col": 18 },
+      "end": { "row": 17, "col": 18 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "W",
+      "start": { "row": 9, "col": 11 },
+      "end": { "row": 9, "col": 4 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "N",
+      "start": { "row": 21, "col": 23 },
+      "end": { "row": 16, "col": 23 }
+    },
+    {
+      "word": "HYPOTHESIS",
+      "direction": "NE",
+      "start": { "row": 13, "col": 23 },
+      "end": { "row": 4, "col": 32 }
+    },
+    {
+      "word": "PATHLIB",
+      "direction": "E",
+      "start": { "row": 8, "col": 3 },
+      "end": { "row": 8, "col": 9 }
+    },
+    {
+      "word": "MEMORYLEAK",
+      "direction": "S",
+      "start": { "row": 22, "col": 24 },
+      "end": { "row": 31, "col": 24 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "NW",
+      "start": { "row": 32, "col": 19 },
+      "end": { "row": 25, "col": 12 }
+    },
+    {
+      "word": "INTERRUPTSIGNAL",
+      "direction": "S",
+      "start": { "row": 14, "col": 16 },
+      "end": { "row": 28, "col": 16 }
+    }
+  ],
+  "HFWS04": [
+    {
+      "word": "BYTEARRAYOPS",
+      "direction": "S",
+      "start": { "row": 14, "col": 13 },
+      "end": { "row": 25, "col": 13 }
+    },
+    {
+      "word": "UNICODELOOKUP",
+      "direction": "S",
+      "start": { "row": 3, "col": 33 },
+      "end": { "row": 15, "col": 33 }
+    },
+    {
+      "word": "CALLABLEOBJECTS",
+      "direction": "E",
+      "start": { "row": 23, "col": 15 },
+      "end": { "row": 23, "col": 29 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "N",
+      "start": { "row": 22, "col": 34 },
+      "end": { "row": 13, "col": 34 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "N",
+      "start": { "row": 16, "col": 31 },
+      "end": { "row": 11, "col": 31 }
+    },
+    {
+      "word": "RETRYLOGIC",
+      "direction": "NW",
+      "start": { "row": 27, "col": 14 },
+      "end": { "row": 18, "col": 5 }
+    },
+    {
+      "word": "DUNDERMETHOD",
+      "direction": "S",
+      "start": { "row": 8, "col": 32 },
+      "end": { "row": 19, "col": 32 }
+    },
+    {
+      "word": "RATELIMITING",
+      "direction": "SW",
+      "start": { "row": 2, "col": 32 },
+      "end": { "row": 13, "col": 21 }
+    },
+    {
+      "word": "SCIKITLEARN",
+      "direction": "N",
+      "start": { "row": 19, "col": 28 },
+      "end": { "row": 9, "col": 28 }
+    },
+    {
+      "word": "TRACEBACKANALYSIS",
+      "direction": "N",
+      "start": { "row": 28, "col": 20 },
+      "end": { "row": 12, "col": 20 }
+    }
+  ],
+  "HFWS05": [
+    {
+      "word": "DICTUNPACK",
+      "direction": "SW",
+      "start": { "row": 17, "col": 17 },
+      "end": { "row": 26, "col": 8 }
+    },
+    {
+      "word": "NAMESPACEMAPPING",
+      "direction": "N",
+      "start": { "row": 27, "col": 26 },
+      "end": { "row": 12, "col": 26 }
+    },
+    {
+      "word": "DECORATORPATTERNS",
+      "direction": "NE",
+      "start": { "row": 25, "col": 11 },
+      "end": { "row": 9, "col": 27 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "N",
+      "start": { "row": 29, "col": 25 },
+      "end": { "row": 24, "col": 25 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "NE",
+      "start": { "row": 18, "col": 15 },
+      "end": { "row": 13, "col": 20 }
+    },
+    {
+      "word": "BANDIT",
+      "direction": "SW",
+      "start": { "row": 16, "col": 16 },
+      "end": { "row": 21, "col": 11 }
+    },
+    {
+      "word": "PYTEST",
+      "direction": "SW",
+      "start": { "row": 22, "col": 23 },
+      "end": { "row": 27, "col": 18 }
+    },
+    {
+      "word": "INCIDENTRESPONSE",
+      "direction": "S",
+      "start": { "row": 9, "col": 28 },
+      "end": { "row": 24, "col": 28 }
+    },
+    {
+      "word": "CUSTOMEXCEPTION",
+      "direction": "NE",
+      "start": { "row": 21, "col": 14 },
+      "end": { "row": 7, "col": 28 }
+    },
+    {
+      "word": "PROTOBUFSCHEMA",
+      "direction": "S",
+      "start": { "row": 7, "col": 29 },
+      "end": { "row": 20, "col": 29 }
+    }
+  ],
+  "HFWS06": [
+    {
+      "word": "LISTMETHODSAPI",
+      "direction": "N",
+      "start": { "row": 23, "col": 32 },
+      "end": { "row": 10, "col": 32 }
+    },
+    {
+      "word": "DISASSEMBLY",
+      "direction": "E",
+      "start": { "row": 7, "col": 2 },
+      "end": { "row": 7, "col": 12 }
+    },
+    {
+      "word": "PARSERCOMBINATORS",
+      "direction": "N",
+      "start": { "row": 20, "col": 34 },
+      "end": { "row": 4, "col": 34 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "SE",
+      "start": { "row": 15, "col": 17 },
+      "end": { "row": 23, "col": 25 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "NW",
+      "start": { "row": 23, "col": 7 },
+      "end": { "row": 17, "col": 1 }
+    },
+    {
+      "word": "TENSORFLOW",
+      "direction": "N",
+      "start": { "row": 19, "col": 22 },
+      "end": { "row": 10, "col": 22 }
+    },
+    {
+      "word": "GENISM",
+      "direction": "S",
+      "start": { "row": 11, "col": 33 },
+      "end": { "row": 16, "col": 33 }
+    },
+    {
+      "word": "CHERRYPY",
+      "direction": "SE",
+      "start": { "row": 25, "col": 9 },
+      "end": { "row": 32, "col": 16 }
+    },
+    {
+      "word": "OPENFILE",
+      "direction": "NW",
+      "start": { "row": 29, "col": 21 },
+      "end": { "row": 22, "col": 14 }
+    },
+    {
+      "word": "SCIKITLEARN",
+      "direction": "N",
+      "start": { "row": 24, "col": 29 },
+      "end": { "row": 14, "col": 29 }
+    }
+  ],
+  "HFWS07": [
+    {
+      "word": "FILESTAT",
+      "direction": "SW",
+      "start": { "row": 23, "col": 23 },
+      "end": { "row": 30, "col": 16 }
+    },
+    {
+      "word": "FRAMEBUILDER",
+      "direction": "S",
+      "start": { "row": 15, "col": 16 },
+      "end": { "row": 26, "col": 16 }
+    },
+    {
+      "word": "CODEOBJECTS",
+      "direction": "SE",
+      "start": { "row": 17, "col": 1 },
+      "end": { "row": 27, "col": 11 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "S",
+      "start": { "row": 7, "col": 32 },
+      "end": { "row": 15, "col": 32 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "S",
+      "start": { "row": 9, "col": 31 },
+      "end": { "row": 14, "col": 31 }
+    },
+    {
+      "word": "PATCHING",
+      "direction": "S",
+      "start": { "row": 6, "col": 33 },
+      "end": { "row": 13, "col": 33 }
+    },
+    {
+      "word": "TABNINE",
+      "direction": "S",
+      "start": { "row": 6, "col": 25 },
+      "end": { "row": 12, "col": 25 }
+    },
+    {
+      "word": "RATELIMITING",
+      "direction": "NE",
+      "start": { "row": 15, "col": 23 },
+      "end": { "row": 4, "col": 34 }
+    },
+    {
+      "word": "TRACEBACKANALYSIS",
+      "direction": "S",
+      "start": { "row": 7, "col": 34 },
+      "end": { "row": 23, "col": 34 }
+    },
+    {
+      "word": "PROTOBUFSCHEMA",
+      "direction": "S",
+      "start": { "row": 18, "col": 15 },
+      "end": { "row": 31, "col": 15 }
+    }
+  ],
+  "HFWS08": [
+    {
+      "word": "LISTMETHODSAPI",
+      "direction": "S",
+      "start": { "row": 15, "col": 15 },
+      "end": { "row": 28, "col": 15 }
+    },
+    {
+      "word": "METHODCACHEINVALID",
+      "direction": "S",
+      "start": { "row": 17, "col": 16 },
+      "end": { "row": 34, "col": 16 }
+    },
+    {
+      "word": "FASTLOCALS",
+      "direction": "SW",
+      "start": { "row": 13, "col": 30 },
+      "end": { "row": 22, "col": 21 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "E",
+      "start": { "row": 23, "col": 16 },
+      "end": { "row": 23, "col": 22 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "S",
+      "start": { "row": 6, "col": 27 },
+      "end": { "row": 14, "col": 27 }
+    },
+    {
+      "word": "SERIALIZATIONLAYER",
+      "direction": "N",
+      "start": { "row": 22, "col": 34 },
+      "end": { "row": 5, "col": 34 }
+    },
+    {
+      "word": "MROCHAIN",
+      "direction": "N",
+      "start": { "row": 24, "col": 11 },
+      "end": { "row": 17, "col": 11 }
+    },
+    {
+      "word": "REPLLOOP",
+      "direction": "SE",
+      "start": { "row": 23, "col": 5 },
+      "end": { "row": 30, "col": 12 }
+    },
+    {
+      "word": "OCTOPARSE",
+      "direction": "NW",
+      "start": { "row": 26, "col": 10 },
+      "end": { "row": 18, "col": 2 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "N",
+      "start": { "row": 10, "col": 1 },
+      "end": { "row": 3, "col": 1 }
+    }
+  ],
+  "HFWS09": [
+    {
+      "word": "OVERRIDING",
+      "direction": "S",
+      "start": { "row": 12, "col": 32 },
+      "end": { "row": 21, "col": 32 }
+    },
+    {
+      "word": "TRACEFUNCTION",
+      "direction": "W",
+      "start": { "row": 25, "col": 26 },
+      "end": { "row": 25, "col": 14 }
+    },
+    {
+      "word": "WEAKREFAPI",
+      "direction": "S",
+      "start": { "row": 2, "col": 35 },
+      "end": { "row": 11, "col": 35 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "SW",
+      "start": { "row": 12, "col": 21 },
+      "end": { "row": 20, "col": 13 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "W",
+      "start": { "row": 17, "col": 29 },
+      "end": { "row": 17, "col": 22 }
+    },
+    {
+      "word": "CURSOROBJECT",
+      "direction": "W",
+      "start": { "row": 9, "col": 12 },
+      "end": { "row": 9, "col": 1 }
+    },
+    {
+      "word": "SEMVERING",
+      "direction": "S",
+      "start": { "row": 5, "col": 28 },
+      "end": { "row": 13, "col": 28 }
+    },
+    {
+      "word": "INCIDENTRESPONSE",
+      "direction": "W",
+      "start": { "row": 21, "col": 18 },
+      "end": { "row": 21, "col": 3 }
+    },
+    {
+      "word": "BACKWARDCOMPAT",
+      "direction": "W",
+      "start": { "row": 26, "col": 21 },
+      "end": { "row": 26, "col": 8 }
+    },
+    {
+      "word": "HEAPDUMP",
+      "direction": "S",
+      "start": { "row": 17, "col": 20 },
+      "end": { "row": 24, "col": 20 }
+    }
+  ],
+  "HFWS10": [
+    {
+      "word": "CLASSMETHODDECORATOR",
+      "direction": "E",
+      "start": { "row": 20, "col": 15 },
+      "end": { "row": 20, "col": 34 }
+    },
+    {
+      "word": "INTERPRETERAPI",
+      "direction": "S",
+      "start": { "row": 4, "col": 30 },
+      "end": { "row": 17, "col": 30 }
+    },
+    {
+      "word": "JAVACOMPAT",
+      "direction": "NW",
+      "start": { "row": 30, "col": 17 },
+      "end": { "row": 21, "col": 8 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "S",
+      "start": { "row": 5, "col": 9 },
+      "end": { "row": 12, "col": 9 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "S",
+      "start": { "row": 10, "col": 23 },
+      "end": { "row": 19, "col": 23 }
+    },
+    {
+      "word": "CIWORKFLOW",
+      "direction": "W",
+      "start": { "row": 18, "col": 17 },
+      "end": { "row": 18, "col": 8 }
+    },
+    {
+      "word": "INVOKABLEOBJECT",
+      "direction": "E",
+      "start": { "row": 19, "col": 7 },
+      "end": { "row": 19, "col": 21 }
+    },
+    {
+      "word": "SCHEMAREVOLUTION",
+      "direction": "SE",
+      "start": { "row": 19, "col": 4 },
+      "end": { "row": 34, "col": 19 }
+    },
+    {
+      "word": "HEAPDUMP",
+      "direction": "NW",
+      "start": { "row": 33, "col": 16 },
+      "end": { "row": 26, "col": 9 }
+    },
+    {
+      "word": "PARAMETRIZED",
+      "direction": "S",
+      "start": { "row": 1, "col": 3 },
+      "end": { "row": 12, "col": 3 }
+    }
+  ],
+  "HFWS11": [
+    {
+      "word": "LOWERSTRING",
+      "direction": "E",
+      "start": { "row": 29, "col": 16 },
+      "end": { "row": 29, "col": 26 }
+    },
+    {
+      "word": "SLOTMARKS",
+      "direction": "N",
+      "start": { "row": 22, "col": 34 },
+      "end": { "row": 14, "col": 34 }
+    },
+    {
+      "word": "CODECMAP",
+      "direction": "W",
+      "start": { "row": 30, "col": 20 },
+      "end": { "row": 30, "col": 13 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "E",
+      "start": { "row": 18, "col": 1 },
+      "end": { "row": 18, "col": 6 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "SW",
+      "start": { "row": 3, "col": 32 },
+      "end": { "row": 11, "col": 24 }
+    },
+    {
+      "word": "HTTPSERVER",
+      "direction": "N",
+      "start": { "row": 23, "col": 18 },
+      "end": { "row": 14, "col": 18 }
+    },
+    {
+      "word": "NAMEDTUPLE",
+      "direction": "SW",
+      "start": { "row": 9, "col": 28 },
+      "end": { "row": 18, "col": 19 }
+    },
+    {
+      "word": "ERRORPROPAGATION",
+      "direction": "S",
+      "start": { "row": 3, "col": 33 },
+      "end": { "row": 18, "col": 33 }
+    },
+    {
+      "word": "SANITIZERS",
+      "direction": "E",
+      "start": { "row": 24, "col": 10 },
+      "end": { "row": 24, "col": 19 }
+    },
+    {
+      "word": "VALGRIND",
+      "direction": "E",
+      "start": { "row": 31, "col": 16 },
+      "end": { "row": 31, "col": 23 }
+    }
+  ],
+  "HFWS12": [
+    {
+      "word": "LISTFILTERING",
+      "direction": "SW",
+      "start": { "row": 12, "col": 29 },
+      "end": { "row": 24, "col": 17 }
+    },
+    {
+      "word": "IMMUTABLESET",
+      "direction": "NW",
+      "start": { "row": 18, "col": 34 },
+      "end": { "row": 7, "col": 23 }
+    },
+    {
+      "word": "TRACEFUNCTION",
+      "direction": "N",
+      "start": { "row": 22, "col": 20 },
+      "end": { "row": 10, "col": 20 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "S",
+      "start": { "row": 7, "col": 1 },
+      "end": { "row": 10, "col": 1 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "SW",
+      "start": { "row": 9, "col": 28 },
+      "end": { "row": 16, "col": 21 }
+    },
+    {
+      "word": "TENSORFLOW",
+      "direction": "NE",
+      "start": { "row": 28, "col": 21 },
+      "end": { "row": 19, "col": 30 }
+    },
+    {
+      "word": "GLOBALSCOPE",
+      "direction": "SE",
+      "start": { "row": 17, "col": 1 },
+      "end": { "row": 27, "col": 11 }
+    },
+    {
+      "word": "BLACKFORMATTER",
+      "direction": "E",
+      "start": { "row": 23, "col": 19 },
+      "end": { "row": 23, "col": 32 }
+    },
+    {
+      "word": "ARGPARSE",
+      "direction": "SE",
+      "start": { "row": 17, "col": 11 },
+      "end": { "row": 24, "col": 18 }
+    },
+    {
+      "word": "DATADESCRIPTOR",
+      "direction": "SE",
+      "start": { "row": 21, "col": 6 },
+      "end": { "row": 34, "col": 19 }
+    }
+  ],
+  "HFWS13": [
+    {
+      "word": "CLASSMETHODDECORATOR",
+      "direction": "SW",
+      "start": { "row": 5, "col": 30 },
+      "end": { "row": 24, "col": 11 }
+    },
+    {
+      "word": "SCHEDULER",
+      "direction": "S",
+      "start": { "row": 4, "col": 7 },
+      "end": { "row": 12, "col": 7 }
+    },
+    {
+      "word": "HASHCOLLISION",
+      "direction": "NE",
+      "start": { "row": 25, "col": 18 },
+      "end": { "row": 13, "col": 30 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "SE",
+      "start": { "row": 23, "col": 7 },
+      "end": { "row": 31, "col": 15 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "SW",
+      "start": { "row": 10, "col": 34 },
+      "end": { "row": 16, "col": 28 }
+    },
+    {
+      "word": "TERMINATIONSIGNAL",
+      "direction": "NE",
+      "start": { "row": 34, "col": 19 },
+      "end": { "row": 18, "col": 35 }
+    },
+    {
+      "word": "TASKQUEUE",
+      "direction": "SE",
+      "start": { "row": 24, "col": 14 },
+      "end": { "row": 32, "col": 22 }
+    },
+    {
+      "word": "ALEMBIC",
+      "direction": "NE",
+      "start": { "row": 25, "col": 14 },
+      "end": { "row": 19, "col": 20 }
+    },
+    {
+      "word": "TRACEBACKANALYSIS",
+      "direction": "NE",
+      "start": { "row": 19, "col": 13 },
+      "end": { "row": 3, "col": 29 }
+    },
+    {
+      "word": "PROPOSALCATALOG",
+      "direction": "SW",
+      "start": { "row": 15, "col": 30 },
+      "end": { "row": 29, "col": 16 }
+    }
+  ],
+  "HFWS14": [
+    {
+      "word": "PACKAGES",
+      "direction": "N",
+      "start": { "row": 11, "col": 4 },
+      "end": { "row": 4, "col": 4 }
+    },
+    {
+      "word": "REFERENCELOOP",
+      "direction": "S",
+      "start": { "row": 3, "col": 33 },
+      "end": { "row": 15, "col": 33 }
+    },
+    {
+      "word": "DESCRIPTORCHAIN",
+      "direction": "N",
+      "start": { "row": 24, "col": 29 },
+      "end": { "row": 10, "col": 29 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "N",
+      "start": { "row": 16, "col": 22 },
+      "end": { "row": 8, "col": 22 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "SE",
+      "start": { "row": 30, "col": 18 },
+      "end": { "row": 33, "col": 21 }
+    },
+    {
+      "word": "STRUCTUREDTYPES",
+      "direction": "N",
+      "start": { "row": 23, "col": 25 },
+      "end": { "row": 9, "col": 25 }
+    },
+    {
+      "word": "PYBIND11",
+      "direction": "SW",
+      "start": { "row": 19, "col": 21 },
+      "end": { "row": 26, "col": 14 }
+    },
+    {
+      "word": "INVOKABLEOBJECT",
+      "direction": "S",
+      "start": { "row": 4, "col": 31 },
+      "end": { "row": 18, "col": 31 }
+    },
+    {
+      "word": "ISORT",
+      "direction": "SW",
+      "start": { "row": 25, "col": 19 },
+      "end": { "row": 29, "col": 15 }
+    },
+    {
+      "word": "SANITIZERS",
+      "direction": "S",
+      "start": { "row": 10, "col": 27 },
+      "end": { "row": 19, "col": 27 }
+    }
+  ],
+  "HFWS15": [
+    {
+      "word": "LISTINSERT",
+      "direction": "S",
+      "start": { "row": 7, "col": 29 },
+      "end": { "row": 16, "col": 29 }
+    },
+    {
+      "word": "FREELISTALLOCATOR",
+      "direction": "S",
+      "start": { "row": 5, "col": 26 },
+      "end": { "row": 21, "col": 26 }
+    },
+    {
+      "word": "CPROFILEMODULE",
+      "direction": "SW",
+      "start": { "row": 17, "col": 25 },
+      "end": { "row": 30, "col": 12 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "E",
+      "start": { "row": 10, "col": 2 },
+      "end": { "row": 10, "col": 9 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "S",
+      "start": { "row": 11, "col": 27 },
+      "end": { "row": 16, "col": 27 }
+    },
+    {
+      "word": "DEPENDENCYGRAPH",
+      "direction": "E",
+      "start": { "row": 20, "col": 6 },
+      "end": { "row": 20, "col": 20 }
+    },
+    {
+      "word": "PATHLIB",
+      "direction": "W",
+      "start": { "row": 17, "col": 15 },
+      "end": { "row": 17, "col": 9 }
+    },
+    {
+      "word": "PROPHET",
+      "direction": "W",
+      "start": { "row": 17, "col": 24 },
+      "end": { "row": 17, "col": 18 }
+    },
+    {
+      "word": "RELEASEPIPELINE",
+      "direction": "E",
+      "start": { "row": 18, "col": 9 },
+      "end": { "row": 18, "col": 23 }
+    },
+    {
+      "word": "TYPECHECKING",
+      "direction": "W",
+      "start": { "row": 19, "col": 19 },
+      "end": { "row": 19, "col": 8 }
+    }
+  ],
+  "HFWS16": [
+    {
+      "word": "FILESTAT",
+      "direction": "SW",
+      "start": { "row": 28, "col": 30 },
+      "end": { "row": 35, "col": 23 }
+    },
+    {
+      "word": "FRAMEBUILDER",
+      "direction": "NW",
+      "start": { "row": 17, "col": 26 },
+      "end": { "row": 6, "col": 15 }
+    },
+    {
+      "word": "REFLECTIONAPI",
+      "direction": "W",
+      "start": { "row": 18, "col": 20 },
+      "end": { "row": 18, "col": 8 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "N",
+      "start": { "row": 32, "col": 7 },
+      "end": { "row": 26, "col": 7 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "S",
+      "start": { "row": 26, "col": 16 },
+      "end": { "row": 34, "col": 16 }
+    },
+    {
+      "word": "PATCHING",
+      "direction": "N",
+      "start": { "row": 33, "col": 1 },
+      "end": { "row": 26, "col": 1 }
+    },
+    {
+      "word": "SIGNALHOOK",
+      "direction": "SW",
+      "start": { "row": 3, "col": 17 },
+      "end": { "row": 12, "col": 8 }
+    },
+    {
+      "word": "FUNCTIONOBJECT",
+      "direction": "N",
+      "start": { "row": 33, "col": 20 },
+      "end": { "row": 20, "col": 20 }
+    },
+    {
+      "word": "GRAFANA",
+      "direction": "NW",
+      "start": { "row": 15, "col": 30 },
+      "end": { "row": 9, "col": 24 }
+    },
+    {
+      "word": "FALCON",
+      "direction": "SE",
+      "start": { "row": 9, "col": 27 },
+      "end": { "row": 14, "col": 32 }
+    }
+  ],
+  "HFWS17": [
+    {
+      "word": "SETMETHODS",
+      "direction": "SW",
+      "start": { "row": 9, "col": 31 },
+      "end": { "row": 18, "col": 22 }
+    },
+    {
+      "word": "REFLECTIONAPI",
+      "direction": "SE",
+      "start": { "row": 1, "col": 8 },
+      "end": { "row": 13, "col": 20 }
+    },
+    {
+      "word": "GENERATORYIELD",
+      "direction": "NE",
+      "start": { "row": 19, "col": 19 },
+      "end": { "row": 6, "col": 32 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "S",
+      "start": { "row": 4, "col": 9 },
+      "end": { "row": 11, "col": 9 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "E",
+      "start": { "row": 3, "col": 20 },
+      "end": { "row": 3, "col": 25 }
+    },
+    {
+      "word": "LEXICALSCOPE",
+      "direction": "SE",
+      "start": { "row": 19, "col": 23 },
+      "end": { "row": 30, "col": 34 }
+    },
+    {
+      "word": "INVOKABLEOBJECT",
+      "direction": "W",
+      "start": { "row": 11, "col": 23 },
+      "end": { "row": 11, "col": 9 }
+    },
+    {
+      "word": "FINALLYBLOCK",
+      "direction": "SW",
+      "start": { "row": 19, "col": 28 },
+      "end": { "row": 30, "col": 17 }
+    },
+    {
+      "word": "CUSTOMEXCEPTION",
+      "direction": "S",
+      "start": { "row": 9, "col": 35 },
+      "end": { "row": 23, "col": 35 }
+    },
+    {
+      "word": "PICKLEPROTOCOL",
+      "direction": "W",
+      "start": { "row": 21, "col": 20 },
+      "end": { "row": 21, "col": 7 }
+    }
+  ],
+  "HFWS18": [
+    {
+      "word": "BOOLCONTEXT",
+      "direction": "N",
+      "start": { "row": 26, "col": 11 },
+      "end": { "row": 16, "col": 11 }
+    },
+    {
+      "word": "INTERPRETERAPI",
+      "direction": "W",
+      "start": { "row": 12, "col": 35 },
+      "end": { "row": 12, "col": 22 }
+    },
+    {
+      "word": "HEAPALLOCATION",
+      "direction": "E",
+      "start": { "row": 13, "col": 8 },
+      "end": { "row": 13, "col": 21 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "SE",
+      "start": { "row": 26, "col": 21 },
+      "end": { "row": 31, "col": 26 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "S",
+      "start": { "row": 18, "col": 9 },
+      "end": { "row": 27, "col": 9 }
+    },
+    {
+      "word": "PYPYPROJECT",
+      "direction": "E",
+      "start": { "row": 21, "col": 12 },
+      "end": { "row": 21, "col": 22 }
+    },
+    {
+      "word": "TESTHARNESS",
+      "direction": "E",
+      "start": { "row": 3, "col": 11 },
+      "end": { "row": 3, "col": 21 }
+    },
+    {
+      "word": "SCHEMAREVOLUTION",
+      "direction": "W",
+      "start": { "row": 34, "col": 23 },
+      "end": { "row": 34, "col": 8 }
+    },
+    {
+      "word": "VALGRIND",
+      "direction": "S",
+      "start": { "row": 4, "col": 31 },
+      "end": { "row": 11, "col": 31 }
+    },
+    {
+      "word": "OBJECTGRAPH",
+      "direction": "E",
+      "start": { "row": 9, "col": 2 },
+      "end": { "row": 9, "col": 12 }
+    }
+  ],
+  "HFWS19": [
+    {
+      "word": "OVERRIDING",
+      "direction": "S",
+      "start": { "row": 26, "col": 5 },
+      "end": { "row": 35, "col": 5 }
+    },
+    {
+      "word": "SYNTAXWALKER",
+      "direction": "NW",
+      "start": { "row": 33, "col": 34 },
+      "end": { "row": 22, "col": 23 }
+    },
+    {
+      "word": "SYSINTERNALS",
+      "direction": "NW",
+      "start": { "row": 33, "col": 17 },
+      "end": { "row": 22, "col": 6 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NW",
+      "start": { "row": 28, "col": 10 },
+      "end": { "row": 21, "col": 3 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "SE",
+      "start": { "row": 1, "col": 6 },
+      "end": { "row": 6, "col": 11 }
+    },
+    {
+      "word": "RETRYLOGIC",
+      "direction": "N",
+      "start": { "row": 28, "col": 35 },
+      "end": { "row": 19, "col": 35 }
+    },
+    {
+      "word": "SUBSCRIBER",
+      "direction": "SW",
+      "start": { "row": 20, "col": 21 },
+      "end": { "row": 29, "col": 12 }
+    },
+    {
+      "word": "PYSNOOPER",
+      "direction": "S",
+      "start": { "row": 2, "col": 29 },
+      "end": { "row": 10, "col": 29 }
+    },
+    {
+      "word": "METRICSCOLLECTION",
+      "direction": "E",
+      "start": { "row": 34, "col": 7 },
+      "end": { "row": 34, "col": 23 }
+    },
+    {
+      "word": "DUNDERINIT",
+      "direction": "N",
+      "start": { "row": 31, "col": 34 },
+      "end": { "row": 22, "col": 34 }
+    }
+  ],
+  "HFWS20": [
+    {
+      "word": "KEYWORDONLY",
+      "direction": "NE",
+      "start": { "row": 28, "col": 4 },
+      "end": { "row": 18, "col": 14 }
+    },
+    {
+      "word": "INTERPRETERCONFIG",
+      "direction": "SW",
+      "start": { "row": 7, "col": 23 },
+      "end": { "row": 23, "col": 7 }
+    },
+    {
+      "word": "ABSTRACTBASES",
+      "direction": "NW",
+      "start": { "row": 35, "col": 32 },
+      "end": { "row": 23, "col": 20 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "W",
+      "start": { "row": 34, "col": 25 },
+      "end": { "row": 34, "col": 19 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "W",
+      "start": { "row": 16, "col": 32 },
+      "end": { "row": 16, "col": 25 }
+    },
+    {
+      "word": "SCALENE",
+      "direction": "N",
+      "start": { "row": 18, "col": 16 },
+      "end": { "row": 12, "col": 16 }
+    },
+    {
+      "word": "PANDASFRAME",
+      "direction": "SW",
+      "start": { "row": 5, "col": 22 },
+      "end": { "row": 15, "col": 12 }
+    },
+    {
+      "word": "DASHBOARDS",
+      "direction": "W",
+      "start": { "row": 10, "col": 30 },
+      "end": { "row": 10, "col": 21 }
+    },
+    {
+      "word": "MOCKING",
+      "direction": "N",
+      "start": { "row": 30, "col": 2 },
+      "end": { "row": 24, "col": 2 }
+    },
+    {
+      "word": "FINALIZERS",
+      "direction": "NE",
+      "start": { "row": 15, "col": 7 },
+      "end": { "row": 6, "col": 16 }
+    }
+  ],
+  "HFWS21": [
+    {
+      "word": "ROUNDMETHOD",
+      "direction": "E",
+      "start": { "row": 25, "col": 2 },
+      "end": { "row": 25, "col": 12 }
+    },
+    {
+      "word": "INLINECACHE",
+      "direction": "N",
+      "start": { "row": 31, "col": 33 },
+      "end": { "row": 21, "col": 33 }
+    },
+    {
+      "word": "LOCKCONTENTION",
+      "direction": "NE",
+      "start": { "row": 22, "col": 8 },
+      "end": { "row": 9, "col": 21 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "S",
+      "start": { "row": 3, "col": 33 },
+      "end": { "row": 11, "col": 33 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "S",
+      "start": { "row": 4, "col": 15 },
+      "end": { "row": 12, "col": 15 }
+    },
+    {
+      "word": "HTTPSERVER",
+      "direction": "W",
+      "start": { "row": 13, "col": 28 },
+      "end": { "row": 13, "col": 19 }
+    },
+    {
+      "word": "WEAKREFSET",
+      "direction": "NW",
+      "start": { "row": 29, "col": 20 },
+      "end": { "row": 20, "col": 11 }
+    },
+    {
+      "word": "PYSNOOPER",
+      "direction": "N",
+      "start": { "row": 27, "col": 24 },
+      "end": { "row": 19, "col": 24 }
+    },
+    {
+      "word": "DUNDERINIT",
+      "direction": "E",
+      "start": { "row": 31, "col": 21 },
+      "end": { "row": 31, "col": 30 }
+    },
+    {
+      "word": "OCTOPARSE",
+      "direction": "NW",
+      "start": { "row": 21, "col": 28 },
+      "end": { "row": 13, "col": 20 }
+    }
+  ],
+  "HFWS22": [
+    {
+      "word": "MIXIN",
+      "direction": "N",
+      "start": { "row": 31, "col": 6 },
+      "end": { "row": 27, "col": 6 }
+    },
+    {
+      "word": "HEAPINSPECTOR",
+      "direction": "SW",
+      "start": { "row": 2, "col": 13 },
+      "end": { "row": 14, "col": 1 }
+    },
+    {
+      "word": "EVALSAFETY",
+      "direction": "NE",
+      "start": { "row": 18, "col": 17 },
+      "end": { "row": 9, "col": 26 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "SE",
+      "start": { "row": 5, "col": 13 },
+      "end": { "row": 12, "col": 20 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "NW",
+      "start": { "row": 27, "col": 29 },
+      "end": { "row": 18, "col": 20 }
+    },
+    {
+      "word": "PHASEVARIANTS",
+      "direction": "SW",
+      "start": { "row": 3, "col": 26 },
+      "end": { "row": 15, "col": 14 }
+    },
+    {
+      "word": "TOGGLESWITCH",
+      "direction": "W",
+      "start": { "row": 20, "col": 34 },
+      "end": { "row": 20, "col": 23 }
+    },
+    {
+      "word": "CHERRYPY",
+      "direction": "E",
+      "start": { "row": 33, "col": 8 },
+      "end": { "row": 33, "col": 15 }
+    },
+    {
+      "word": "PUBSUB",
+      "direction": "E",
+      "start": { "row": 27, "col": 18 },
+      "end": { "row": 27, "col": 23 }
+    },
+    {
+      "word": "MEMORYPROFILER",
+      "direction": "S",
+      "start": { "row": 10, "col": 7 },
+      "end": { "row": 23, "col": 7 }
+    }
+  ],
+  "HFWS23": [
+    {
+      "word": "DIRNAME",
+      "direction": "SE",
+      "start": { "row": 28, "col": 7 },
+      "end": { "row": 34, "col": 13 }
+    },
+    {
+      "word": "INTERPRETERLOOP",
+      "direction": "W",
+      "start": { "row": 3, "col": 33 },
+      "end": { "row": 3, "col": 19 }
+    },
+    {
+      "word": "GENERATORYIELD",
+      "direction": "N",
+      "start": { "row": 24, "col": 16 },
+      "end": { "row": 11, "col": 16 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "W",
+      "start": { "row": 20, "col": 7 },
+      "end": { "row": 20, "col": 4 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "SE",
+      "start": { "row": 17, "col": 19 },
+      "end": { "row": 25, "col": 27 }
+    },
+    {
+      "word": "TENSORFLOW",
+      "direction": "E",
+      "start": { "row": 34, "col": 26 },
+      "end": { "row": 34, "col": 35 }
+    },
+    {
+      "word": "CHANGELOG",
+      "direction": "S",
+      "start": { "row": 9, "col": 23 },
+      "end": { "row": 17, "col": 23 }
+    },
+    {
+      "word": "VULTURE",
+      "direction": "S",
+      "start": { "row": 4, "col": 16 },
+      "end": { "row": 10, "col": 16 }
+    },
+    {
+      "word": "SETUPTOOLS",
+      "direction": "SE",
+      "start": { "row": 21, "col": 25 },
+      "end": { "row": 30, "col": 34 }
+    },
+    {
+      "word": "BCRYPTSALT",
+      "direction": "S",
+      "start": { "row": 17, "col": 34 },
+      "end": { "row": 26, "col": 34 }
+    }
+  ],
+  "HFWS24": [
+    {
+      "word": "CLASSMETHODDECORATOR",
+      "direction": "E",
+      "start": { "row": 35, "col": 11 },
+      "end": { "row": 35, "col": 30 }
+    },
+    {
+      "word": "METHODCACHEINVALID",
+      "direction": "W",
+      "start": { "row": 18, "col": 22 },
+      "end": { "row": 18, "col": 5 }
+    },
+    {
+      "word": "DECORATORPATTERNS",
+      "direction": "E",
+      "start": { "row": 20, "col": 1 },
+      "end": { "row": 20, "col": 17 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "S",
+      "start": { "row": 25, "col": 18 },
+      "end": { "row": 32, "col": 18 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "W",
+      "start": { "row": 16, "col": 23 },
+      "end": { "row": 16, "col": 17 }
+    },
+    {
+      "word": "COMPOSITION",
+      "direction": "N",
+      "start": { "row": 29, "col": 8 },
+      "end": { "row": 19, "col": 8 }
+    },
+    {
+      "word": "SIGNALHANDLER",
+      "direction": "NW",
+      "start": { "row": 22, "col": 33 },
+      "end": { "row": 10, "col": 21 }
+    },
+    {
+      "word": "OBSERVABILITY",
+      "direction": "NE",
+      "start": { "row": 28, "col": 13 },
+      "end": { "row": 16, "col": 25 }
+    },
+    {
+      "word": "CLOSUREVARIABLE",
+      "direction": "E",
+      "start": { "row": 22, "col": 11 },
+      "end": { "row": 22, "col": 25 }
+    },
+    {
+      "word": "EXCEPTIONHANDLING",
+      "direction": "W",
+      "start": { "row": 3, "col": 34 },
+      "end": { "row": 3, "col": 18 }
+    }
+  ],
+  "HFWS25": [
+    {
+      "word": "DICTIONARIES",
+      "direction": "S",
+      "start": { "row": 4, "col": 7 },
+      "end": { "row": 15, "col": 7 }
+    },
+    {
+      "word": "BYTEREPR",
+      "direction": "W",
+      "start": { "row": 33, "col": 28 },
+      "end": { "row": 33, "col": 21 }
+    },
+    {
+      "word": "IMPORTTRACER",
+      "direction": "E",
+      "start": { "row": 2, "col": 18 },
+      "end": { "row": 2, "col": 29 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "S",
+      "start": { "row": 27, "col": 28 },
+      "end": { "row": 30, "col": 28 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NE",
+      "start": { "row": 15, "col": 10 },
+      "end": { "row": 8, "col": 17 }
+    },
+    {
+      "word": "POETRY",
+      "direction": "SE",
+      "start": { "row": 14, "col": 29 },
+      "end": { "row": 19, "col": 34 }
+    },
+    {
+      "word": "HEALTHCHECKMONITOR",
+      "direction": "N",
+      "start": { "row": 23, "col": 2 },
+      "end": { "row": 6, "col": 2 }
+    },
+    {
+      "word": "ISSUBCLASSCHECK",
+      "direction": "E",
+      "start": { "row": 7, "col": 20 },
+      "end": { "row": 7, "col": 34 }
+    },
+    {
+      "word": "DATADESCRIPTOR",
+      "direction": "W",
+      "start": { "row": 1, "col": 34 },
+      "end": { "row": 1, "col": 21 }
+    },
+    {
+      "word": "PARAMETRIZED",
+      "direction": "N",
+      "start": { "row": 29, "col": 17 },
+      "end": { "row": 18, "col": 17 }
+    }
+  ],
+  "HFWS26": [
+    {
+      "word": "PACKAGES",
+      "direction": "NE",
+      "start": { "row": 8, "col": 13 },
+      "end": { "row": 1, "col": 20 }
+    },
+    {
+      "word": "CYTHONIZATION",
+      "direction": "NE",
+      "start": { "row": 33, "col": 17 },
+      "end": { "row": 21, "col": 29 }
+    },
+    {
+      "word": "MARSHALWRITER",
+      "direction": "E",
+      "start": { "row": 11, "col": 1 },
+      "end": { "row": 11, "col": 13 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "E",
+      "start": { "row": 2, "col": 22 },
+      "end": { "row": 2, "col": 31 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "W",
+      "start": { "row": 2, "col": 15 },
+      "end": { "row": 2, "col": 7 }
+    },
+    {
+      "word": "VECTORIZATION",
+      "direction": "N",
+      "start": { "row": 26, "col": 35 },
+      "end": { "row": 14, "col": 35 }
+    },
+    {
+      "word": "FILEPATH",
+      "direction": "NE",
+      "start": { "row": 22, "col": 24 },
+      "end": { "row": 15, "col": 31 }
+    },
+    {
+      "word": "TURBOGEARS",
+      "direction": "SE",
+      "start": { "row": 3, "col": 11 },
+      "end": { "row": 12, "col": 20 }
+    },
+    {
+      "word": "CONNECTIONPOOL",
+      "direction": "SW",
+      "start": { "row": 19, "col": 24 },
+      "end": { "row": 32, "col": 11 }
+    },
+    {
+      "word": "PICKLEPROTOCOL",
+      "direction": "SW",
+      "start": { "row": 20, "col": 27 },
+      "end": { "row": 33, "col": 14 }
+    }
+  ],
+  "HFWS27": [
+    {
+      "word": "SETSUPPORT",
+      "direction": "NW",
+      "start": { "row": 33, "col": 34 },
+      "end": { "row": 24, "col": 25 }
+    },
+    {
+      "word": "INTERNALSPEC",
+      "direction": "SE",
+      "start": { "row": 19, "col": 1 },
+      "end": { "row": 30, "col": 12 }
+    },
+    {
+      "word": "FREELISTALLOCATOR",
+      "direction": "NW",
+      "start": { "row": 30, "col": 32 },
+      "end": { "row": 14, "col": 16 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "E",
+      "start": { "row": 10, "col": 14 },
+      "end": { "row": 10, "col": 21 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "E",
+      "start": { "row": 6, "col": 14 },
+      "end": { "row": 6, "col": 22 }
+    },
+    {
+      "word": "POETRY",
+      "direction": "S",
+      "start": { "row": 26, "col": 1 },
+      "end": { "row": 31, "col": 1 }
+    },
+    {
+      "word": "ENTRYPOINT",
+      "direction": "N",
+      "start": { "row": 28, "col": 30 },
+      "end": { "row": 19, "col": 30 }
+    },
+    {
+      "word": "SANDBOXING",
+      "direction": "NW",
+      "start": { "row": 17, "col": 14 },
+      "end": { "row": 8, "col": 5 }
+    },
+    {
+      "word": "OCTOPARSE",
+      "direction": "S",
+      "start": { "row": 8, "col": 4 },
+      "end": { "row": 16, "col": 4 }
+    },
+    {
+      "word": "BCRYPTSALT",
+      "direction": "N",
+      "start": { "row": 29, "col": 34 },
+      "end": { "row": 20, "col": 34 }
+    }
+  ],
+  "HFWS28": [
+    {
+      "word": "TUPLES",
+      "direction": "SW",
+      "start": { "row": 4, "col": 32 },
+      "end": { "row": 9, "col": 27 }
+    },
+    {
+      "word": "DISPATCHER",
+      "direction": "NW",
+      "start": { "row": 29, "col": 20 },
+      "end": { "row": 20, "col": 11 }
+    },
+    {
+      "word": "WEAKREFAPI",
+      "direction": "N",
+      "start": { "row": 20, "col": 34 },
+      "end": { "row": 11, "col": 34 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "SW",
+      "start": { "row": 19, "col": 9 },
+      "end": { "row": 24, "col": 4 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "NE",
+      "start": { "row": 25, "col": 21 },
+      "end": { "row": 20, "col": 26 }
+    },
+    {
+      "word": "RABBITMQ",
+      "direction": "E",
+      "start": { "row": 33, "col": 4 },
+      "end": { "row": 33, "col": 11 }
+    },
+    {
+      "word": "MEDALLIA",
+      "direction": "E",
+      "start": { "row": 12, "col": 14 },
+      "end": { "row": 12, "col": 21 }
+    },
+    {
+      "word": "INVOKABLEOBJECT",
+      "direction": "SW",
+      "start": { "row": 20, "col": 35 },
+      "end": { "row": 34, "col": 21 }
+    },
+    {
+      "word": "DATADESCRIPTOR",
+      "direction": "W",
+      "start": { "row": 16, "col": 24 },
+      "end": { "row": 16, "col": 11 }
+    },
+    {
+      "word": "SANITIZERS",
+      "direction": "SE",
+      "start": { "row": 26, "col": 24 },
+      "end": { "row": 35, "col": 33 }
+    }
+  ],
+  "HFWS29": [
+    {
+      "word": "LOOPCONTROL",
+      "direction": "S",
+      "start": { "row": 13, "col": 6 },
+      "end": { "row": 23, "col": 6 }
+    },
+    {
+      "word": "STACKFRAMEOBJ",
+      "direction": "N",
+      "start": { "row": 28, "col": 35 },
+      "end": { "row": 16, "col": 35 }
+    },
+    {
+      "word": "SYSINTERNALS",
+      "direction": "SE",
+      "start": { "row": 14, "col": 8 },
+      "end": { "row": 25, "col": 19 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "S",
+      "start": { "row": 5, "col": 6 },
+      "end": { "row": 8, "col": 6 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "E",
+      "start": { "row": 9, "col": 18 },
+      "end": { "row": 9, "col": 25 }
+    },
+    {
+      "word": "SLAOBJECT",
+      "direction": "S",
+      "start": { "row": 12, "col": 22 },
+      "end": { "row": 20, "col": 22 }
+    },
+    {
+      "word": "REGRESSIONTEST",
+      "direction": "W",
+      "start": { "row": 7, "col": 23 },
+      "end": { "row": 7, "col": 10 }
+    },
+    {
+      "word": "GDBINTEGRATION",
+      "direction": "N",
+      "start": { "row": 16, "col": 26 },
+      "end": { "row": 3, "col": 26 }
+    },
+    {
+      "word": "DATADESCRIPTOR",
+      "direction": "SW",
+      "start": { "row": 12, "col": 19 },
+      "end": { "row": 25, "col": 6 }
+    },
+    {
+      "word": "BACKWARDCOMPAT",
+      "direction": "N",
+      "start": { "row": 23, "col": 24 },
+      "end": { "row": 10, "col": 24 }
+    }
+  ],
+  "HFWS30": [
+    {
+      "word": "JOINPATH",
+      "direction": "W",
+      "start": { "row": 3, "col": 24 },
+      "end": { "row": 3, "col": 17 }
+    },
+    {
+      "word": "NAMESPACEMAPPING",
+      "direction": "W",
+      "start": { "row": 27, "col": 29 },
+      "end": { "row": 27, "col": 14 }
+    },
+    {
+      "word": "NAMEMANGLING",
+      "direction": "SE",
+      "start": { "row": 2, "col": 2 },
+      "end": { "row": 13, "col": 13 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "W",
+      "start": { "row": 4, "col": 28 },
+      "end": { "row": 4, "col": 23 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NE",
+      "start": { "row": 8, "col": 26 },
+      "end": { "row": 1, "col": 33 }
+    },
+    {
+      "word": "PYPYPROJECT",
+      "direction": "NE",
+      "start": { "row": 28, "col": 4 },
+      "end": { "row": 18, "col": 14 }
+    },
+    {
+      "word": "PERFORATOR",
+      "direction": "S",
+      "start": { "row": 20, "col": 3 },
+      "end": { "row": 29, "col": 3 }
+    },
+    {
+      "word": "TOGGLESWITCH",
+      "direction": "NW",
+      "start": { "row": 21, "col": 24 },
+      "end": { "row": 10, "col": 13 }
+    },
+    {
+      "word": "INTERPOPTIM",
+      "direction": "N",
+      "start": { "row": 21, "col": 25 },
+      "end": { "row": 11, "col": 25 }
+    },
+    {
+      "word": "SANITIZERS",
+      "direction": "N",
+      "start": { "row": 26, "col": 1 },
+      "end": { "row": 17, "col": 1 }
+    }
+  ],
+  "HFWS31": [
+    {
+      "word": "MIXIN",
+      "direction": "NE",
+      "start": { "row": 9, "col": 5 },
+      "end": { "row": 5, "col": 9 }
+    },
+    {
+      "word": "GARBAGEHOOKS",
+      "direction": "S",
+      "start": { "row": 9, "col": 7 },
+      "end": { "row": 20, "col": 7 }
+    },
+    {
+      "word": "REFLECTIONAPI",
+      "direction": "N",
+      "start": { "row": 22, "col": 25 },
+      "end": { "row": 10, "col": 25 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "NE",
+      "start": { "row": 16, "col": 12 },
+      "end": { "row": 8, "col": 20 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "SW",
+      "start": { "row": 28, "col": 14 },
+      "end": { "row": 33, "col": 9 }
+    },
+    {
+      "word": "CURSOROBJECT",
+      "direction": "N",
+      "start": { "row": 29, "col": 8 },
+      "end": { "row": 18, "col": 8 }
+    },
+    {
+      "word": "CONTINUOUSDELIVERY",
+      "direction": "N",
+      "start": { "row": 34, "col": 26 },
+      "end": { "row": 17, "col": 26 }
+    },
+    {
+      "word": "KOALAS",
+      "direction": "N",
+      "start": { "row": 14, "col": 21 },
+      "end": { "row": 9, "col": 21 }
+    },
+    {
+      "word": "INTERPOPTIM",
+      "direction": "N",
+      "start": { "row": 28, "col": 24 },
+      "end": { "row": 18, "col": 24 }
+    },
+    {
+      "word": "ABTESTING",
+      "direction": "SE",
+      "start": { "row": 19, "col": 27 },
+      "end": { "row": 27, "col": 35 }
+    }
+  ],
+  "HFWS32": [
+    {
+      "word": "SYNTAXERROR",
+      "direction": "E",
+      "start": { "row": 8, "col": 13 },
+      "end": { "row": 8, "col": 23 }
+    },
+    {
+      "word": "MRORESOLUTION",
+      "direction": "S",
+      "start": { "row": 10, "col": 28 },
+      "end": { "row": 22, "col": 28 }
+    },
+    {
+      "word": "IMPORTCACHE",
+      "direction": "W",
+      "start": { "row": 24, "col": 15 },
+      "end": { "row": 24, "col": 5 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NW",
+      "start": { "row": 13, "col": 16 },
+      "end": { "row": 6, "col": 9 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "NE",
+      "start": { "row": 25, "col": 22 },
+      "end": { "row": 20, "col": 27 }
+    },
+    {
+      "word": "CELERY",
+      "direction": "S",
+      "start": { "row": 16, "col": 30 },
+      "end": { "row": 21, "col": 30 }
+    },
+    {
+      "word": "HEALTHCHECKMONITOR",
+      "direction": "S",
+      "start": { "row": 2, "col": 25 },
+      "end": { "row": 19, "col": 25 }
+    },
+    {
+      "word": "SEMVERING",
+      "direction": "W",
+      "start": { "row": 28, "col": 31 },
+      "end": { "row": 28, "col": 23 }
+    },
+    {
+      "word": "OPENFILE",
+      "direction": "E",
+      "start": { "row": 27, "col": 4 },
+      "end": { "row": 27, "col": 11 }
+    },
+    {
+      "word": "DATADESCRIPTOR",
+      "direction": "W",
+      "start": { "row": 26, "col": 17 },
+      "end": { "row": 26, "col": 4 }
+    }
+  ],
+  "HFWS33": [
+    {
+      "word": "STRREPLACE",
+      "direction": "W",
+      "start": { "row": 26, "col": 21 },
+      "end": { "row": 26, "col": 12 }
+    },
+    {
+      "word": "GLOBALCONTEXT",
+      "direction": "W",
+      "start": { "row": 24, "col": 17 },
+      "end": { "row": 24, "col": 5 }
+    },
+    {
+      "word": "COOPERATIVEYIELD",
+      "direction": "W",
+      "start": { "row": 28, "col": 35 },
+      "end": { "row": 28, "col": 20 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "NW",
+      "start": { "row": 26, "col": 32 },
+      "end": { "row": 18, "col": 24 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "W",
+      "start": { "row": 13, "col": 15 },
+      "end": { "row": 13, "col": 8 }
+    },
+    {
+      "word": "VERTEX",
+      "direction": "NW",
+      "start": { "row": 12, "col": 34 },
+      "end": { "row": 7, "col": 29 }
+    },
+    {
+      "word": "DASHBOARDS",
+      "direction": "E",
+      "start": { "row": 9, "col": 3 },
+      "end": { "row": 9, "col": 12 }
+    },
+    {
+      "word": "WEAKREFPROXY",
+      "direction": "SW",
+      "start": { "row": 3, "col": 30 },
+      "end": { "row": 14, "col": 19 }
+    },
+    {
+      "word": "FIXTURES",
+      "direction": "NE",
+      "start": { "row": 11, "col": 21 },
+      "end": { "row": 4, "col": 28 }
+    },
+    {
+      "word": "REQUESTID",
+      "direction": "NE",
+      "start": { "row": 35, "col": 7 },
+      "end": { "row": 27, "col": 15 }
+    }
+  ],
+  "HFWS34": [
+    {
+      "word": "JOINPATH",
+      "direction": "W",
+      "start": { "row": 26, "col": 20 },
+      "end": { "row": 26, "col": 13 }
+    },
+    {
+      "word": "CYTHONIZATION",
+      "direction": "W",
+      "start": { "row": 25, "col": 19 },
+      "end": { "row": 25, "col": 7 }
+    },
+    {
+      "word": "GARBAGEHOOKS",
+      "direction": "S",
+      "start": { "row": 6, "col": 26 },
+      "end": { "row": 17, "col": 26 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "NW",
+      "start": { "row": 23, "col": 31 },
+      "end": { "row": 18, "col": 26 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "W",
+      "start": { "row": 12, "col": 14 },
+      "end": { "row": 12, "col": 9 }
+    },
+    {
+      "word": "OAUTHFLOW",
+      "direction": "NW",
+      "start": { "row": 31, "col": 11 },
+      "end": { "row": 23, "col": 3 }
+    },
+    {
+      "word": "SQLALCHEMY",
+      "direction": "E",
+      "start": { "row": 28, "col": 24 },
+      "end": { "row": 28, "col": 33 }
+    },
+    {
+      "word": "SQLPARSING",
+      "direction": "N",
+      "start": { "row": 17, "col": 25 },
+      "end": { "row": 8, "col": 25 }
+    },
+    {
+      "word": "MOCKING",
+      "direction": "NE",
+      "start": { "row": 13, "col": 19 },
+      "end": { "row": 7, "col": 25 }
+    },
+    {
+      "word": "CUSTOMEXCEPTION",
+      "direction": "W",
+      "start": { "row": 8, "col": 18 },
+      "end": { "row": 8, "col": 4 }
+    }
+  ],
+  "HFWS35": [
+    {
+      "word": "NAMELIST",
+      "direction": "S",
+      "start": { "row": 3, "col": 12 },
+      "end": { "row": 10, "col": 12 }
+    },
+    {
+      "word": "CODEOPMODULE",
+      "direction": "N",
+      "start": { "row": 13, "col": 27 },
+      "end": { "row": 2, "col": 27 }
+    },
+    {
+      "word": "LOCKCONTENTION",
+      "direction": "S",
+      "start": { "row": 5, "col": 29 },
+      "end": { "row": 18, "col": 29 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "E",
+      "start": { "row": 8, "col": 1 },
+      "end": { "row": 8, "col": 9 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "N",
+      "start": { "row": 33, "col": 27 },
+      "end": { "row": 26, "col": 27 }
+    },
+    {
+      "word": "SECURITYAUDIT",
+      "direction": "S",
+      "start": { "row": 17, "col": 9 },
+      "end": { "row": 29, "col": 9 }
+    },
+    {
+      "word": "PROMETHEUS",
+      "direction": "W",
+      "start": { "row": 28, "col": 26 },
+      "end": { "row": 28, "col": 17 }
+    },
+    {
+      "word": "NAMEDTUPLE",
+      "direction": "SW",
+      "start": { "row": 10, "col": 34 },
+      "end": { "row": 19, "col": 25 }
+    },
+    {
+      "word": "PARAMETRIZED",
+      "direction": "W",
+      "start": { "row": 23, "col": 24 },
+      "end": { "row": 23, "col": 13 }
+    },
+    {
+      "word": "DATADESCRIPTOR",
+      "direction": "E",
+      "start": { "row": 24, "col": 19 },
+      "end": { "row": 24, "col": 32 }
+    }
+  ],
+  "HFWS36": [
+    {
+      "word": "ROUNDMETHOD",
+      "direction": "W",
+      "start": { "row": 27, "col": 25 },
+      "end": { "row": 27, "col": 15 }
+    },
+    {
+      "word": "ABSTRACTBASES",
+      "direction": "S",
+      "start": { "row": 12, "col": 25 },
+      "end": { "row": 24, "col": 25 }
+    },
+    {
+      "word": "INTERPRETERAPI",
+      "direction": "NW",
+      "start": { "row": 14, "col": 20 },
+      "end": { "row": 1, "col": 7 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "NE",
+      "start": { "row": 14, "col": 17 },
+      "end": { "row": 5, "col": 26 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "SW",
+      "start": { "row": 6, "col": 27 },
+      "end": { "row": 9, "col": 24 }
+    },
+    {
+      "word": "CODIGA",
+      "direction": "SE",
+      "start": { "row": 20, "col": 11 },
+      "end": { "row": 25, "col": 16 }
+    },
+    {
+      "word": "PROPHET",
+      "direction": "S",
+      "start": { "row": 17, "col": 29 },
+      "end": { "row": 23, "col": 29 }
+    },
+    {
+      "word": "PYTEST",
+      "direction": "SW",
+      "start": { "row": 10, "col": 34 },
+      "end": { "row": 15, "col": 29 }
+    },
+    {
+      "word": "PYDOCSTYLE",
+      "direction": "E",
+      "start": { "row": 26, "col": 10 },
+      "end": { "row": 26, "col": 19 }
+    },
+    {
+      "word": "FINALIZERS",
+      "direction": "N",
+      "start": { "row": 32, "col": 30 },
+      "end": { "row": 23, "col": 30 }
+    }
+  ],
+  "HFWS37": [
+    {
+      "word": "MAGICMETHOD",
+      "direction": "S",
+      "start": { "row": 12, "col": 29 },
+      "end": { "row": 22, "col": 29 }
+    },
+    {
+      "word": "READONLYVIEW",
+      "direction": "SE",
+      "start": { "row": 24, "col": 2 },
+      "end": { "row": 35, "col": 13 }
+    },
+    {
+      "word": "STACKFRAMEOBJ",
+      "direction": "S",
+      "start": { "row": 10, "col": 28 },
+      "end": { "row": 22, "col": 28 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "NE",
+      "start": { "row": 25, "col": 4 },
+      "end": { "row": 16, "col": 13 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "E",
+      "start": { "row": 8, "col": 1 },
+      "end": { "row": 8, "col": 7 }
+    },
+    {
+      "word": "SLAOBJECT",
+      "direction": "NW",
+      "start": { "row": 13, "col": 34 },
+      "end": { "row": 5, "col": 26 }
+    },
+    {
+      "word": "PASSWORDHASH",
+      "direction": "W",
+      "start": { "row": 26, "col": 34 },
+      "end": { "row": 26, "col": 23 }
+    },
+    {
+      "word": "BOUNDMETHOD",
+      "direction": "S",
+      "start": { "row": 19, "col": 12 },
+      "end": { "row": 29, "col": 12 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "S",
+      "start": { "row": 3, "col": 11 },
+      "end": { "row": 10, "col": 11 }
+    },
+    {
+      "word": "PYDOCSTYLE",
+      "direction": "S",
+      "start": { "row": 5, "col": 24 },
+      "end": { "row": 14, "col": 24 }
+    }
+  ],
+  "HFWS38": [
+    {
+      "word": "REVERSESTRING",
+      "direction": "E",
+      "start": { "row": 24, "col": 9 },
+      "end": { "row": 24, "col": 21 }
+    },
+    {
+      "word": "OPCODECYCLE",
+      "direction": "S",
+      "start": { "row": 6, "col": 28 },
+      "end": { "row": 16, "col": 28 }
+    },
+    {
+      "word": "FINALIZATION",
+      "direction": "E",
+      "start": { "row": 28, "col": 9 },
+      "end": { "row": 28, "col": 20 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "W",
+      "start": { "row": 26, "col": 34 },
+      "end": { "row": 26, "col": 25 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "E",
+      "start": { "row": 14, "col": 6 },
+      "end": { "row": 14, "col": 14 }
+    },
+    {
+      "word": "RETRYLOGIC",
+      "direction": "E",
+      "start": { "row": 27, "col": 13 },
+      "end": { "row": 27, "col": 22 }
+    },
+    {
+      "word": "CHANGELOG",
+      "direction": "S",
+      "start": { "row": 8, "col": 24 },
+      "end": { "row": 16, "col": 24 }
+    },
+    {
+      "word": "MESSAGEQUEUE",
+      "direction": "S",
+      "start": { "row": 11, "col": 25 },
+      "end": { "row": 22, "col": 25 }
+    },
+    {
+      "word": "CONNECTIONPOOL",
+      "direction": "W",
+      "start": { "row": 25, "col": 24 },
+      "end": { "row": 25, "col": 11 }
+    },
+    {
+      "word": "FALCON",
+      "direction": "N",
+      "start": { "row": 10, "col": 12 },
+      "end": { "row": 5, "col": 12 }
+    }
+  ],
+  "HFWS39": [
+    {
+      "word": "STRIPMETHOD",
+      "direction": "N",
+      "start": { "row": 12, "col": 7 },
+      "end": { "row": 2, "col": 7 }
+    },
+    {
+      "word": "STDLIBMODULE",
+      "direction": "E",
+      "start": { "row": 14, "col": 3 },
+      "end": { "row": 14, "col": 14 }
+    },
+    {
+      "word": "BYTEORDER",
+      "direction": "S",
+      "start": { "row": 25, "col": 11 },
+      "end": { "row": 33, "col": 11 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "S",
+      "start": { "row": 9, "col": 28 },
+      "end": { "row": 14, "col": 28 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "W",
+      "start": { "row": 13, "col": 17 },
+      "end": { "row": 13, "col": 12 }
+    },
+    {
+      "word": "PYPYPROJECT",
+      "direction": "N",
+      "start": { "row": 29, "col": 29 },
+      "end": { "row": 19, "col": 29 }
+    },
+    {
+      "word": "FUZZING",
+      "direction": "W",
+      "start": { "row": 23, "col": 10 },
+      "end": { "row": 23, "col": 4 }
+    },
+    {
+      "word": "WSSERVER",
+      "direction": "S",
+      "start": { "row": 7, "col": 24 },
+      "end": { "row": 14, "col": 24 }
+    },
+    {
+      "word": "CIRCUITBREAKER",
+      "direction": "N",
+      "start": { "row": 33, "col": 27 },
+      "end": { "row": 20, "col": 27 }
+    },
+    {
+      "word": "TRANSACTION",
+      "direction": "N",
+      "start": { "row": 12, "col": 25 },
+      "end": { "row": 2, "col": 25 }
+    }
+  ],
+  "HFWS40": [
+    {
+      "word": "FILEMODE",
+      "direction": "NW",
+      "start": { "row": 24, "col": 32 },
+      "end": { "row": 17, "col": 25 }
+    },
+    {
+      "word": "CPROFILEMODULE",
+      "direction": "S",
+      "start": { "row": 8, "col": 9 },
+      "end": { "row": 21, "col": 9 }
+    },
+    {
+      "word": "DECORATORPATTERNS",
+      "direction": "N",
+      "start": { "row": 29, "col": 13 },
+      "end": { "row": 13, "col": 13 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "S",
+      "start": { "row": 26, "col": 28 },
+      "end": { "row": 33, "col": 28 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "N",
+      "start": { "row": 14, "col": 29 },
+      "end": { "row": 6, "col": 29 }
+    },
+    {
+      "word": "PATCHING",
+      "direction": "SW",
+      "start": { "row": 11, "col": 34 },
+      "end": { "row": 18, "col": 27 }
+    },
+    {
+      "word": "TORNADO",
+      "direction": "S",
+      "start": { "row": 12, "col": 12 },
+      "end": { "row": 18, "col": 12 }
+    },
+    {
+      "word": "PYTEST",
+      "direction": "E",
+      "start": { "row": 9, "col": 22 },
+      "end": { "row": 9, "col": 27 }
+    },
+    {
+      "word": "FALCON",
+      "direction": "NE",
+      "start": { "row": 28, "col": 30 },
+      "end": { "row": 23, "col": 35 }
+    },
+    {
+      "word": "TRACEBACKANALYSIS",
+      "direction": "S",
+      "start": { "row": 5, "col": 10 },
+      "end": { "row": 21, "col": 10 }
+    }
+  ],
+  "HFWS41": [
+    {
+      "word": "DICTMERGE",
+      "direction": "NE",
+      "start": { "row": 17, "col": 8 },
+      "end": { "row": 9, "col": 16 }
+    },
+    {
+      "word": "MODULEPATHSYS",
+      "direction": "E",
+      "start": { "row": 28, "col": 14 },
+      "end": { "row": 28, "col": 26 }
+    },
+    {
+      "word": "DISASSEMBLY",
+      "direction": "S",
+      "start": { "row": 6, "col": 27 },
+      "end": { "row": 16, "col": 27 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "SW",
+      "start": { "row": 3, "col": 28 },
+      "end": { "row": 10, "col": 21 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "S",
+      "start": { "row": 1, "col": 30 },
+      "end": { "row": 9, "col": 30 }
+    },
+    {
+      "word": "VERTEX",
+      "direction": "S",
+      "start": { "row": 7, "col": 10 },
+      "end": { "row": 12, "col": 10 }
+    },
+    {
+      "word": "CHERRYPY",
+      "direction": "S",
+      "start": { "row": 16, "col": 7 },
+      "end": { "row": 23, "col": 7 }
+    },
+    {
+      "word": "GDBINTEGRATION",
+      "direction": "W",
+      "start": { "row": 27, "col": 32 },
+      "end": { "row": 27, "col": 19 }
+    },
+    {
+      "word": "CIRCUITBREAKER",
+      "direction": "W",
+      "start": { "row": 25, "col": 34 },
+      "end": { "row": 25, "col": 21 }
+    },
+    {
+      "word": "CONNECTIONPOOL",
+      "direction": "S",
+      "start": { "row": 17, "col": 11 },
+      "end": { "row": 30, "col": 11 }
+    }
+  ],
+  "HFWS42": [
+    {
+      "word": "STRIPMETHOD",
+      "direction": "N",
+      "start": { "row": 25, "col": 28 },
+      "end": { "row": 15, "col": 28 }
+    },
+    {
+      "word": "ABSTRACTMETHODS",
+      "direction": "E",
+      "start": { "row": 11, "col": 13 },
+      "end": { "row": 11, "col": 27 }
+    },
+    {
+      "word": "OPCODEMAP",
+      "direction": "SW",
+      "start": { "row": 25, "col": 16 },
+      "end": { "row": 33, "col": 8 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "S",
+      "start": { "row": 12, "col": 24 },
+      "end": { "row": 21, "col": 24 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "NW",
+      "start": { "row": 32, "col": 28 },
+      "end": { "row": 27, "col": 23 }
+    },
+    {
+      "word": "ASGIAPP",
+      "direction": "N",
+      "start": { "row": 25, "col": 10 },
+      "end": { "row": 19, "col": 10 }
+    },
+    {
+      "word": "TOGGLESWITCH",
+      "direction": "S",
+      "start": { "row": 10, "col": 7 },
+      "end": { "row": 21, "col": 7 }
+    },
+    {
+      "word": "SCOPECHAIN",
+      "direction": "W",
+      "start": { "row": 24, "col": 22 },
+      "end": { "row": 24, "col": 13 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "S",
+      "start": { "row": 7, "col": 11 },
+      "end": { "row": 14, "col": 11 }
+    },
+    {
+      "word": "CLOSUREVARIABLE",
+      "direction": "E",
+      "start": { "row": 23, "col": 12 },
+      "end": { "row": 23, "col": 26 }
+    }
+  ],
+  "HFWS43": [
+    {
+      "word": "MIXIN",
+      "direction": "S",
+      "start": { "row": 1, "col": 7 },
+      "end": { "row": 5, "col": 7 }
+    },
+    {
+      "word": "OBJECTLIFECYCLE",
+      "direction": "W",
+      "start": { "row": 10, "col": 29 },
+      "end": { "row": 10, "col": 15 }
+    },
+    {
+      "word": "MARSHALWRITER",
+      "direction": "W",
+      "start": { "row": 13, "col": 26 },
+      "end": { "row": 13, "col": 14 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "E",
+      "start": { "row": 9, "col": 18 },
+      "end": { "row": 9, "col": 24 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NW",
+      "start": { "row": 11, "col": 15 },
+      "end": { "row": 4, "col": 8 }
+    },
+    {
+      "word": "JUPYTER",
+      "direction": "SW",
+      "start": { "row": 22, "col": 9 },
+      "end": { "row": 28, "col": 3 }
+    },
+    {
+      "word": "AUTHENTICATION",
+      "direction": "S",
+      "start": { "row": 17, "col": 30 },
+      "end": { "row": 30, "col": 30 }
+    },
+    {
+      "word": "LINTERSUITE",
+      "direction": "N",
+      "start": { "row": 33, "col": 27 },
+      "end": { "row": 23, "col": 27 }
+    },
+    {
+      "word": "VALGRIND",
+      "direction": "NE",
+      "start": { "row": 19, "col": 26 },
+      "end": { "row": 12, "col": 33 }
+    },
+    {
+      "word": "OBJECTGRAPH",
+      "direction": "W",
+      "start": { "row": 24, "col": 23 },
+      "end": { "row": 24, "col": 13 }
+    }
+  ],
+  "HFWS44": [
+    {
+      "word": "BYTEARRAYOPS",
+      "direction": "W",
+      "start": { "row": 8, "col": 35 },
+      "end": { "row": 8, "col": 24 }
+    },
+    {
+      "word": "LINETABLE",
+      "direction": "S",
+      "start": { "row": 27, "col": 10 },
+      "end": { "row": 35, "col": 10 }
+    },
+    {
+      "word": "DECORATORPATTERNS",
+      "direction": "N",
+      "start": { "row": 30, "col": 9 },
+      "end": { "row": 14, "col": 9 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "SE",
+      "start": { "row": 17, "col": 25 },
+      "end": { "row": 23, "col": 31 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "NW",
+      "start": { "row": 28, "col": 6 },
+      "end": { "row": 23, "col": 1 }
+    },
+    {
+      "word": "TENSORFLOW",
+      "direction": "S",
+      "start": { "row": 5, "col": 13 },
+      "end": { "row": 14, "col": 13 }
+    },
+    {
+      "word": "FORWARDCOMPAT",
+      "direction": "N",
+      "start": { "row": 13, "col": 9 },
+      "end": { "row": 1, "col": 9 }
+    },
+    {
+      "word": "SOURCERY",
+      "direction": "NW",
+      "start": { "row": 26, "col": 31 },
+      "end": { "row": 19, "col": 24 }
+    },
+    {
+      "word": "SCIKITLEARN",
+      "direction": "E",
+      "start": { "row": 9, "col": 23 },
+      "end": { "row": 9, "col": 33 }
+    },
+    {
+      "word": "ARGPARSE",
+      "direction": "N",
+      "start": { "row": 29, "col": 11 },
+      "end": { "row": 22, "col": 11 }
+    }
+  ],
+  "HFWS45": [
+    {
+      "word": "LOOPCONTROL",
+      "direction": "N",
+      "start": { "row": 19, "col": 11 },
+      "end": { "row": 9, "col": 11 }
+    },
+    {
+      "word": "IMPORTTRACER",
+      "direction": "N",
+      "start": { "row": 21, "col": 12 },
+      "end": { "row": 10, "col": 12 }
+    },
+    {
+      "word": "JAVACOMPAT",
+      "direction": "N",
+      "start": { "row": 35, "col": 28 },
+      "end": { "row": 26, "col": 28 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "S",
+      "start": { "row": 19, "col": 30 },
+      "end": { "row": 27, "col": 30 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "N",
+      "start": { "row": 12, "col": 29 },
+      "end": { "row": 5, "col": 29 }
+    },
+    {
+      "word": "PATCHING",
+      "direction": "NW",
+      "start": { "row": 25, "col": 32 },
+      "end": { "row": 18, "col": 25 }
+    },
+    {
+      "word": "ROUTING",
+      "direction": "NW",
+      "start": { "row": 15, "col": 24 },
+      "end": { "row": 9, "col": 18 }
+    },
+    {
+      "word": "IPYTHON",
+      "direction": "S",
+      "start": { "row": 7, "col": 30 },
+      "end": { "row": 13, "col": 30 }
+    },
+    {
+      "word": "OCTOPARSE",
+      "direction": "S",
+      "start": { "row": 4, "col": 26 },
+      "end": { "row": 12, "col": 26 }
+    },
+    {
+      "word": "AUTORELOADTOOL",
+      "direction": "E",
+      "start": { "row": 28, "col": 12 },
+      "end": { "row": 28, "col": 25 }
+    }
+  ],
+  "HFWS46": [
+    {
+      "word": "TUPLES",
+      "direction": "NW",
+      "start": { "row": 15, "col": 32 },
+      "end": { "row": 10, "col": 27 }
+    },
+    {
+      "word": "PYCALLVECTORFAST",
+      "direction": "SE",
+      "start": { "row": 3, "col": 19 },
+      "end": { "row": 18, "col": 34 }
+    },
+    {
+      "word": "STDLIBMODULE",
+      "direction": "NW",
+      "start": { "row": 30, "col": 12 },
+      "end": { "row": 19, "col": 1 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "NE",
+      "start": { "row": 30, "col": 24 },
+      "end": { "row": 23, "col": 31 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NE",
+      "start": { "row": 18, "col": 5 },
+      "end": { "row": 11, "col": 12 }
+    },
+    {
+      "word": "PATCHING",
+      "direction": "S",
+      "start": { "row": 14, "col": 16 },
+      "end": { "row": 21, "col": 16 }
+    },
+    {
+      "word": "REQUIREMENTS",
+      "direction": "NE",
+      "start": { "row": 30, "col": 22 },
+      "end": { "row": 19, "col": 33 }
+    },
+    {
+      "word": "ERRORBUDGET",
+      "direction": "S",
+      "start": { "row": 16, "col": 12 },
+      "end": { "row": 26, "col": 12 }
+    },
+    {
+      "word": "MEMORYPROFILER",
+      "direction": "S",
+      "start": { "row": 14, "col": 13 },
+      "end": { "row": 27, "col": 13 }
+    },
+    {
+      "word": "EXCEPTIONHANDLING",
+      "direction": "N",
+      "start": { "row": 28, "col": 14 },
+      "end": { "row": 12, "col": 14 }
+    }
+  ],
+  "HFWS47": [
+    {
+      "word": "LISTMETHODSAPI",
+      "direction": "SE",
+      "start": { "row": 7, "col": 21 },
+      "end": { "row": 20, "col": 34 }
+    },
+    {
+      "word": "STACKUNWINDING",
+      "direction": "SE",
+      "start": { "row": 1, "col": 19 },
+      "end": { "row": 14, "col": 32 }
+    },
+    {
+      "word": "SLOTMARKS",
+      "direction": "SE",
+      "start": { "row": 9, "col": 24 },
+      "end": { "row": 17, "col": 32 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "NW",
+      "start": { "row": 24, "col": 29 },
+      "end": { "row": 21, "col": 26 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "E",
+      "start": { "row": 6, "col": 15 },
+      "end": { "row": 6, "col": 22 }
+    },
+    {
+      "word": "ALERTMANAGER",
+      "direction": "SE",
+      "start": { "row": 20, "col": 8 },
+      "end": { "row": 31, "col": 19 }
+    },
+    {
+      "word": "WEBFRAMEWORK",
+      "direction": "N",
+      "start": { "row": 23, "col": 13 },
+      "end": { "row": 12, "col": 13 }
+    },
+    {
+      "word": "TYPEGUARD",
+      "direction": "NW",
+      "start": { "row": 28, "col": 12 },
+      "end": { "row": 20, "col": 4 }
+    },
+    {
+      "word": "REQUESTID",
+      "direction": "SE",
+      "start": { "row": 18, "col": 7 },
+      "end": { "row": 26, "col": 15 }
+    },
+    {
+      "word": "RELEASENOTES",
+      "direction": "N",
+      "start": { "row": 24, "col": 15 },
+      "end": { "row": 13, "col": 15 }
+    }
+  ],
+  "HFWS48": [
+    {
+      "word": "INHERITANCE",
+      "direction": "SE",
+      "start": { "row": 21, "col": 6 },
+      "end": { "row": 31, "col": 16 }
+    },
+    {
+      "word": "INTERPRETERLOCK",
+      "direction": "SE",
+      "start": { "row": 4, "col": 18 },
+      "end": { "row": 18, "col": 32 }
+    },
+    {
+      "word": "COROUTINECANCEL",
+      "direction": "S",
+      "start": { "row": 18, "col": 21 },
+      "end": { "row": 32, "col": 21 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "W",
+      "start": { "row": 17, "col": 12 },
+      "end": { "row": 17, "col": 7 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "NW",
+      "start": { "row": 30, "col": 14 },
+      "end": { "row": 23, "col": 7 }
+    },
+    {
+      "word": "METHODOBJECT",
+      "direction": "S",
+      "start": { "row": 13, "col": 15 },
+      "end": { "row": 24, "col": 15 }
+    },
+    {
+      "word": "PASSWORDHASH",
+      "direction": "NW",
+      "start": { "row": 32, "col": 20 },
+      "end": { "row": 21, "col": 9 }
+    },
+    {
+      "word": "RUNBOOK",
+      "direction": "E",
+      "start": { "row": 14, "col": 8 },
+      "end": { "row": 14, "col": 14 }
+    },
+    {
+      "word": "REQUESTID",
+      "direction": "E",
+      "start": { "row": 20, "col": 5 },
+      "end": { "row": 20, "col": 13 }
+    },
+    {
+      "word": "HOOKSYSTEM",
+      "direction": "SE",
+      "start": { "row": 10, "col": 23 },
+      "end": { "row": 19, "col": 32 }
+    }
+  ],
+  "HFWS49": [
+    {
+      "word": "KEYWORDARGS",
+      "direction": "SE",
+      "start": { "row": 23, "col": 8 },
+      "end": { "row": 33, "col": 18 }
+    },
+    {
+      "word": "UNICODETEXT",
+      "direction": "SE",
+      "start": { "row": 8, "col": 24 },
+      "end": { "row": 18, "col": 34 }
+    },
+    {
+      "word": "STACKUNWINDING",
+      "direction": "SE",
+      "start": { "row": 19, "col": 3 },
+      "end": { "row": 32, "col": 16 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "S",
+      "start": { "row": 17, "col": 31 },
+      "end": { "row": 22, "col": 31 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "SE",
+      "start": { "row": 7, "col": 25 },
+      "end": { "row": 16, "col": 34 }
+    },
+    {
+      "word": "JUPYTER",
+      "direction": "SE",
+      "start": { "row": 23, "col": 5 },
+      "end": { "row": 29, "col": 11 }
+    },
+    {
+      "word": "INCIDENTRESPONSE",
+      "direction": "N",
+      "start": { "row": 24, "col": 14 },
+      "end": { "row": 9, "col": 14 }
+    },
+    {
+      "word": "BACKPRESSURE",
+      "direction": "S",
+      "start": { "row": 15, "col": 13 },
+      "end": { "row": 26, "col": 13 }
+    },
+    {
+      "word": "SCIKITLEARN",
+      "direction": "SE",
+      "start": { "row": 9, "col": 24 },
+      "end": { "row": 19, "col": 34 }
+    },
+    {
+      "word": "CUSTOMEXCEPTION",
+      "direction": "S",
+      "start": { "row": 10, "col": 11 },
+      "end": { "row": 24, "col": 11 }
+    }
+  ],
+  "HFWS50": [
+    {
+      "word": "PRINTFUNCTION",
+      "direction": "SE",
+      "start": { "row": 7, "col": 18 },
+      "end": { "row": 19, "col": 30 }
+    },
+    {
+      "word": "IMPORTTRACER",
+      "direction": "S",
+      "start": { "row": 16, "col": 11 },
+      "end": { "row": 27, "col": 11 }
+    },
+    {
+      "word": "REFLECTIONAPI",
+      "direction": "SW",
+      "start": { "row": 23, "col": 31 },
+      "end": { "row": 35, "col": 19 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "NW",
+      "start": { "row": 17, "col": 29 },
+      "end": { "row": 12, "col": 24 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "W",
+      "start": { "row": 14, "col": 14 },
+      "end": { "row": 14, "col": 11 }
+    },
+    {
+      "word": "HTTPSERVER",
+      "direction": "NE",
+      "start": { "row": 27, "col": 23 },
+      "end": { "row": 18, "col": 32 }
+    },
+    {
+      "word": "ISOLATIONLEVEL",
+      "direction": "S",
+      "start": { "row": 15, "col": 14 },
+      "end": { "row": 28, "col": 14 }
+    },
+    {
+      "word": "SOURCERY",
+      "direction": "S",
+      "start": { "row": 25, "col": 21 },
+      "end": { "row": 32, "col": 21 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "SW",
+      "start": { "row": 22, "col": 31 },
+      "end": { "row": 29, "col": 24 }
+    },
+    {
+      "word": "TYPECHECKING",
+      "direction": "N",
+      "start": { "row": 26, "col": 10 },
+      "end": { "row": 15, "col": 10 }
+    }
+  ],
+  "HFWS51": [
+    {
+      "word": "ABSPATH",
+      "direction": "W",
+      "start": { "row": 14, "col": 15 },
+      "end": { "row": 14, "col": 9 }
+    },
+    {
+      "word": "TRACEFUNCTION",
+      "direction": "NE",
+      "start": { "row": 30, "col": 18 },
+      "end": { "row": 18, "col": 30 }
+    },
+    {
+      "word": "GLOBALSCOPEVARS",
+      "direction": "S",
+      "start": { "row": 11, "col": 8 },
+      "end": { "row": 25, "col": 8 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "E",
+      "start": { "row": 19, "col": 30 },
+      "end": { "row": 19, "col": 33 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "N",
+      "start": { "row": 22, "col": 14 },
+      "end": { "row": 16, "col": 14 }
+    },
+    {
+      "word": "FREEVARIABLE",
+      "direction": "SE",
+      "start": { "row": 21, "col": 3 },
+      "end": { "row": 32, "col": 14 }
+    },
+    {
+      "word": "COOKIEJAR",
+      "direction": "NW",
+      "start": { "row": 15, "col": 26 },
+      "end": { "row": 7, "col": 18 }
+    },
+    {
+      "word": "FORWARDCOMPAT",
+      "direction": "N",
+      "start": { "row": 33, "col": 15 },
+      "end": { "row": 21, "col": 15 }
+    },
+    {
+      "word": "CIRCUITBREAKER",
+      "direction": "SE",
+      "start": { "row": 3, "col": 15 },
+      "end": { "row": 16, "col": 28 }
+    },
+    {
+      "word": "PROPOSALCATALOG",
+      "direction": "SE",
+      "start": { "row": 4, "col": 18 },
+      "end": { "row": 18, "col": 32 }
+    }
+  ],
+  "HFWS52": [
+    {
+      "word": "TUPLEMERGE",
+      "direction": "NE",
+      "start": { "row": 18, "col": 1 },
+      "end": { "row": 9, "col": 10 }
+    },
+    {
+      "word": "PROFILINGTOOLS",
+      "direction": "S",
+      "start": { "row": 12, "col": 13 },
+      "end": { "row": 25, "col": 13 }
+    },
+    {
+      "word": "IMPORTCACHE",
+      "direction": "NW",
+      "start": { "row": 29, "col": 16 },
+      "end": { "row": 19, "col": 6 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "SE",
+      "start": { "row": 4, "col": 19 },
+      "end": { "row": 11, "col": 26 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "NW",
+      "start": { "row": 28, "col": 10 },
+      "end": { "row": 23, "col": 5 }
+    },
+    {
+      "word": "SLAOBJECT",
+      "direction": "S",
+      "start": { "row": 13, "col": 16 },
+      "end": { "row": 21, "col": 16 }
+    },
+    {
+      "word": "ROUTING",
+      "direction": "S",
+      "start": { "row": 21, "col": 24 },
+      "end": { "row": 27, "col": 24 }
+    },
+    {
+      "word": "POSTMAN",
+      "direction": "NW",
+      "start": { "row": 11, "col": 29 },
+      "end": { "row": 5, "col": 23 }
+    },
+    {
+      "word": "HOOKSYSTEM",
+      "direction": "SW",
+      "start": { "row": 23, "col": 30 },
+      "end": { "row": 32, "col": 21 }
+    },
+    {
+      "word": "CUSTOMEXCEPTION",
+      "direction": "NW",
+      "start": { "row": 18, "col": 32 },
+      "end": { "row": 4, "col": 18 }
+    }
+  ],
+  "HFWS53": [
+    {
+      "word": "BOOLCONTEXT",
+      "direction": "N",
+      "start": { "row": 28, "col": 13 },
+      "end": { "row": 18, "col": 13 }
+    },
+    {
+      "word": "COROUTINESTATE",
+      "direction": "NE",
+      "start": { "row": 34, "col": 20 },
+      "end": { "row": 21, "col": 33 }
+    },
+    {
+      "word": "LINETABLE",
+      "direction": "N",
+      "start": { "row": 19, "col": 7 },
+      "end": { "row": 11, "col": 7 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "NW",
+      "start": { "row": 18, "col": 17 },
+      "end": { "row": 15, "col": 14 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "SE",
+      "start": { "row": 7, "col": 23 },
+      "end": { "row": 15, "col": 31 }
+    },
+    {
+      "word": "CELERY",
+      "direction": "W",
+      "start": { "row": 31, "col": 18 },
+      "end": { "row": 31, "col": 13 }
+    },
+    {
+      "word": "SQLALCHEMY",
+      "direction": "NW",
+      "start": { "row": 19, "col": 30 },
+      "end": { "row": 10, "col": 21 }
+    },
+    {
+      "word": "FUZZING",
+      "direction": "S",
+      "start": { "row": 11, "col": 12 },
+      "end": { "row": 17, "col": 12 }
+    },
+    {
+      "word": "SCIKITLEARN",
+      "direction": "SE",
+      "start": { "row": 5, "col": 23 },
+      "end": { "row": 15, "col": 33 }
+    },
+    {
+      "word": "MOCKING",
+      "direction": "S",
+      "start": { "row": 2, "col": 20 },
+      "end": { "row": 8, "col": 20 }
+    }
+  ],
+  "HFWS54": [
+    {
+      "word": "JOINPATH",
+      "direction": "N",
+      "start": { "row": 30, "col": 15 },
+      "end": { "row": 23, "col": 15 }
+    },
+    {
+      "word": "TRACEFUNCTION",
+      "direction": "S",
+      "start": { "row": 20, "col": 14 },
+      "end": { "row": 32, "col": 14 }
+    },
+    {
+      "word": "FREEZINGOBJECTS",
+      "direction": "SW",
+      "start": { "row": 19, "col": 34 },
+      "end": { "row": 33, "col": 20 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "NW",
+      "start": { "row": 20, "col": 17 },
+      "end": { "row": 12, "col": 9 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "NE",
+      "start": { "row": 33, "col": 17 },
+      "end": { "row": 30, "col": 20 }
+    },
+    {
+      "word": "DEBUGGING",
+      "direction": "NW",
+      "start": { "row": 19, "col": 33 },
+      "end": { "row": 11, "col": 25 }
+    },
+    {
+      "word": "GLOBALSCOPE",
+      "direction": "E",
+      "start": { "row": 19, "col": 5 },
+      "end": { "row": 19, "col": 15 }
+    },
+    {
+      "word": "MROCHAIN",
+      "direction": "S",
+      "start": { "row": 5, "col": 21 },
+      "end": { "row": 12, "col": 21 }
+    },
+    {
+      "word": "DUNDERINIT",
+      "direction": "NE",
+      "start": { "row": 29, "col": 19 },
+      "end": { "row": 20, "col": 28 }
+    },
+    {
+      "word": "RELEASEPIPELINE",
+      "direction": "SW",
+      "start": { "row": 20, "col": 34 },
+      "end": { "row": 34, "col": 20 }
+    }
+  ],
+  "HFWS55": [
+    {
+      "word": "FILEPOINTER",
+      "direction": "E",
+      "start": { "row": 18, "col": 1 },
+      "end": { "row": 18, "col": 11 }
+    },
+    {
+      "word": "COOPERATIVEYIELD",
+      "direction": "S",
+      "start": { "row": 13, "col": 14 },
+      "end": { "row": 28, "col": 14 }
+    },
+    {
+      "word": "SCHEDULER",
+      "direction": "SW",
+      "start": { "row": 17, "col": 32 },
+      "end": { "row": 25, "col": 24 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "SW",
+      "start": { "row": 23, "col": 30 },
+      "end": { "row": 28, "col": 25 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "NW",
+      "start": { "row": 29, "col": 11 },
+      "end": { "row": 22, "col": 4 }
+    },
+    {
+      "word": "TERMINATIONSIGNAL",
+      "direction": "SW",
+      "start": { "row": 15, "col": 33 },
+      "end": { "row": 31, "col": 17 }
+    },
+    {
+      "word": "QUERYBUILDER",
+      "direction": "SW",
+      "start": { "row": 22, "col": 29 },
+      "end": { "row": 33, "col": 18 }
+    },
+    {
+      "word": "CLOSUREDETAIL",
+      "direction": "S",
+      "start": { "row": 7, "col": 12 },
+      "end": { "row": 19, "col": 12 }
+    },
+    {
+      "word": "PICKLEPROTOCOL",
+      "direction": "NW",
+      "start": { "row": 32, "col": 17 },
+      "end": { "row": 19, "col": 4 }
+    },
+    {
+      "word": "BACKWARDCOMPAT",
+      "direction": "S",
+      "start": { "row": 13, "col": 15 },
+      "end": { "row": 26, "col": 15 }
+    }
+  ],
+  "HFWS56": [
+    {
+      "word": "HASHMETHODS",
+      "direction": "NW",
+      "start": { "row": 12, "col": 27 },
+      "end": { "row": 2, "col": 17 }
+    },
+    {
+      "word": "READONLYVIEW",
+      "direction": "W",
+      "start": { "row": 30, "col": 23 },
+      "end": { "row": 30, "col": 12 }
+    },
+    {
+      "word": "IMPORTLIBUTIL",
+      "direction": "E",
+      "start": { "row": 15, "col": 4 },
+      "end": { "row": 15, "col": 16 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "NW",
+      "start": { "row": 17, "col": 28 },
+      "end": { "row": 9, "col": 20 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "S",
+      "start": { "row": 21, "col": 14 },
+      "end": { "row": 26, "col": 14 }
+    },
+    {
+      "word": "VECTORIZATION",
+      "direction": "NW",
+      "start": { "row": 19, "col": 31 },
+      "end": { "row": 7, "col": 19 }
+    },
+    {
+      "word": "BLACKFORMATTER",
+      "direction": "W",
+      "start": { "row": 20, "col": 15 },
+      "end": { "row": 20, "col": 2 }
+    },
+    {
+      "word": "MEDALLIA",
+      "direction": "W",
+      "start": { "row": 23, "col": 29 },
+      "end": { "row": 23, "col": 22 }
+    },
+    {
+      "word": "FALCON",
+      "direction": "W",
+      "start": { "row": 25, "col": 12 },
+      "end": { "row": 25, "col": 7 }
+    },
+    {
+      "word": "OPENFILE",
+      "direction": "NE",
+      "start": { "row": 26, "col": 27 },
+      "end": { "row": 19, "col": 34 }
+    }
+  ],
+  "HFWS57": [
+    {
+      "word": "TUPLES",
+      "direction": "S",
+      "start": { "row": 25, "col": 21 },
+      "end": { "row": 30, "col": 21 }
+    },
+    {
+      "word": "SLOTMARKS",
+      "direction": "NW",
+      "start": { "row": 26, "col": 28 },
+      "end": { "row": 18, "col": 20 }
+    },
+    {
+      "word": "ALLOCATORS",
+      "direction": "SE",
+      "start": { "row": 7, "col": 18 },
+      "end": { "row": 16, "col": 27 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "SE",
+      "start": { "row": 21, "col": 26 },
+      "end": { "row": 24, "col": 29 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "NW",
+      "start": { "row": 19, "col": 32 },
+      "end": { "row": 12, "col": 25 }
+    },
+    {
+      "word": "FILESYSTEM",
+      "direction": "W",
+      "start": { "row": 29, "col": 20 },
+      "end": { "row": 29, "col": 11 }
+    },
+    {
+      "word": "WATSONXCODE",
+      "direction": "W",
+      "start": { "row": 31, "col": 23 },
+      "end": { "row": 31, "col": 13 }
+    },
+    {
+      "word": "PDBDEBUG",
+      "direction": "SE",
+      "start": { "row": 4, "col": 17 },
+      "end": { "row": 11, "col": 24 }
+    },
+    {
+      "word": "OCTOPARSE",
+      "direction": "SE",
+      "start": { "row": 13, "col": 8 },
+      "end": { "row": 21, "col": 16 }
+    },
+    {
+      "word": "METACLASS",
+      "direction": "E",
+      "start": { "row": 30, "col": 14 },
+      "end": { "row": 30, "col": 22 }
+    }
+  ],
+  "HFWS58": [
+    {
+      "word": "NAMELIST",
+      "direction": "NW",
+      "start": { "row": 11, "col": 29 },
+      "end": { "row": 4, "col": 22 }
+    },
+    {
+      "word": "CALLABLEOBJECTS",
+      "direction": "NW",
+      "start": { "row": 30, "col": 18 },
+      "end": { "row": 16, "col": 4 }
+    },
+    {
+      "word": "READONLYVIEW",
+      "direction": "SE",
+      "start": { "row": 16, "col": 3 },
+      "end": { "row": 27, "col": 14 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "W",
+      "start": { "row": 19, "col": 15 },
+      "end": { "row": 19, "col": 9 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "NW",
+      "start": { "row": 21, "col": 7 },
+      "end": { "row": 16, "col": 2 }
+    },
+    {
+      "word": "DEBUGGING",
+      "direction": "SE",
+      "start": { "row": 10, "col": 8 },
+      "end": { "row": 18, "col": 16 }
+    },
+    {
+      "word": "ERRORBUDGET",
+      "direction": "SW",
+      "start": { "row": 22, "col": 29 },
+      "end": { "row": 32, "col": 19 }
+    },
+    {
+      "word": "EXPONENTIALBACKOFF",
+      "direction": "NW",
+      "start": { "row": 19, "col": 33 },
+      "end": { "row": 2, "col": 16 }
+    },
+    {
+      "word": "BACKWARDCOMPAT",
+      "direction": "NE",
+      "start": { "row": 33, "col": 19 },
+      "end": { "row": 20, "col": 32 }
+    },
+    {
+      "word": "REQUESTID",
+      "direction": "SE",
+      "start": { "row": 3, "col": 16 },
+      "end": { "row": 11, "col": 24 }
+    }
+  ],
+  "HFWS59": [
+    {
+      "word": "SETSUPPORT",
+      "direction": "SW",
+      "start": { "row": 25, "col": 29 },
+      "end": { "row": 34, "col": 20 }
+    },
+    {
+      "word": "WEAKREFERENCING",
+      "direction": "SE",
+      "start": { "row": 2, "col": 18 },
+      "end": { "row": 16, "col": 32 }
+    },
+    {
+      "word": "SEMAPHORELOCK",
+      "direction": "NW",
+      "start": { "row": 18, "col": 32 },
+      "end": { "row": 6, "col": 20 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "E",
+      "start": { "row": 22, "col": 7 },
+      "end": { "row": 22, "col": 14 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "NW",
+      "start": { "row": 32, "col": 19 },
+      "end": { "row": 26, "col": 13 }
+    },
+    {
+      "word": "TENSORFLOW",
+      "direction": "SW",
+      "start": { "row": 8, "col": 13 },
+      "end": { "row": 17, "col": 4 }
+    },
+    {
+      "word": "SIGNALHOOK",
+      "direction": "SE",
+      "start": { "row": 5, "col": 22 },
+      "end": { "row": 14, "col": 31 }
+    },
+    {
+      "word": "PROPHET",
+      "direction": "SW",
+      "start": { "row": 22, "col": 30 },
+      "end": { "row": 28, "col": 24 }
+    },
+    {
+      "word": "CONSTRUCTOR",
+      "direction": "SE",
+      "start": { "row": 5, "col": 16 },
+      "end": { "row": 15, "col": 26 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "S",
+      "start": { "row": 25, "col": 21 },
+      "end": { "row": 32, "col": 21 }
+    }
+  ],
+  "HFWS60": [
+    {
+      "word": "FILEHANDLE",
+      "direction": "E",
+      "start": { "row": 18, "col": 1 },
+      "end": { "row": 18, "col": 10 }
+    },
+    {
+      "word": "CYTHONIZATION",
+      "direction": "NW",
+      "start": { "row": 13, "col": 31 },
+      "end": { "row": 1, "col": 19 }
+    },
+    {
+      "word": "OBJECTLIFECYCLE",
+      "direction": "N",
+      "start": { "row": 27, "col": 11 },
+      "end": { "row": 13, "col": 11 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "SW",
+      "start": { "row": 22, "col": 27 },
+      "end": { "row": 30, "col": 19 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "E",
+      "start": { "row": 23, "col": 6 },
+      "end": { "row": 23, "col": 13 }
+    },
+    {
+      "word": "NOTEBOOK",
+      "direction": "SE",
+      "start": { "row": 4, "col": 21 },
+      "end": { "row": 11, "col": 28 }
+    },
+    {
+      "word": "COMMANDLINE",
+      "direction": "NW",
+      "start": { "row": 14, "col": 26 },
+      "end": { "row": 4, "col": 16 }
+    },
+    {
+      "word": "RUNBOOK",
+      "direction": "SW",
+      "start": { "row": 23, "col": 27 },
+      "end": { "row": 29, "col": 21 }
+    },
+    {
+      "word": "GRAFANA",
+      "direction": "NW",
+      "start": { "row": 16, "col": 30 },
+      "end": { "row": 10, "col": 24 }
+    },
+    {
+      "word": "CUSTOMEXCEPTION",
+      "direction": "SE",
+      "start": { "row": 6, "col": 19 },
+      "end": { "row": 20, "col": 33 }
+    }
+  ],
+  "HFWS61": [
+    {
+      "word": "LISTFILTERING",
+      "direction": "W",
+      "start": { "row": 14, "col": 18 },
+      "end": { "row": 14, "col": 6 }
+    },
+    {
+      "word": "ABSTRACTBASES",
+      "direction": "W",
+      "start": { "row": 10, "col": 26 },
+      "end": { "row": 10, "col": 14 }
+    },
+    {
+      "word": "UNICODETEXT",
+      "direction": "SE",
+      "start": { "row": 25, "col": 11 },
+      "end": { "row": 35, "col": 21 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "NW",
+      "start": { "row": 17, "col": 35 },
+      "end": { "row": 12, "col": 30 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "E",
+      "start": { "row": 20, "col": 24 },
+      "end": { "row": 20, "col": 32 }
+    },
+    {
+      "word": "HEALTHCHECK",
+      "direction": "E",
+      "start": { "row": 23, "col": 23 },
+      "end": { "row": 23, "col": 33 }
+    },
+    {
+      "word": "VISUALIZATION",
+      "direction": "W",
+      "start": { "row": 17, "col": 13 },
+      "end": { "row": 17, "col": 1 }
+    },
+    {
+      "word": "ALEMBIC",
+      "direction": "W",
+      "start": { "row": 25, "col": 33 },
+      "end": { "row": 25, "col": 27 }
+    },
+    {
+      "word": "OBJECTGRAPH",
+      "direction": "E",
+      "start": { "row": 25, "col": 15 },
+      "end": { "row": 25, "col": 25 }
+    },
+    {
+      "word": "GRAFANA",
+      "direction": "E",
+      "start": { "row": 3, "col": 10 },
+      "end": { "row": 3, "col": 16 }
+    }
+  ],
+  "HFWS62": [
+    {
+      "word": "DICTIONARIES",
+      "direction": "W",
+      "start": { "row": 25, "col": 26 },
+      "end": { "row": 25, "col": 15 }
+    },
+    {
+      "word": "CODEOPMODULE",
+      "direction": "E",
+      "start": { "row": 29, "col": 11 },
+      "end": { "row": 29, "col": 22 }
+    },
+    {
+      "word": "BYTEORDER",
+      "direction": "W",
+      "start": { "row": 27, "col": 18 },
+      "end": { "row": 27, "col": 10 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "S",
+      "start": { "row": 4, "col": 10 },
+      "end": { "row": 7, "col": 10 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "SE",
+      "start": { "row": 15, "col": 22 },
+      "end": { "row": 20, "col": 27 }
+    },
+    {
+      "word": "CODIGA",
+      "direction": "W",
+      "start": { "row": 17, "col": 31 },
+      "end": { "row": 17, "col": 26 }
+    },
+    {
+      "word": "TESTHARNESS",
+      "direction": "E",
+      "start": { "row": 8, "col": 10 },
+      "end": { "row": 8, "col": 20 }
+    },
+    {
+      "word": "DASHBOARDS",
+      "direction": "E",
+      "start": { "row": 14, "col": 8 },
+      "end": { "row": 14, "col": 17 }
+    },
+    {
+      "word": "HEAPDUMP",
+      "direction": "W",
+      "start": { "row": 19, "col": 20 },
+      "end": { "row": 19, "col": 13 }
+    },
+    {
+      "word": "MEMORYPROFILER",
+      "direction": "NE",
+      "start": { "row": 18, "col": 11 },
+      "end": { "row": 5, "col": 24 }
+    }
+  ],
+  "HFWS63": [
+    {
+      "word": "BOOLEANTEST",
+      "direction": "W",
+      "start": { "row": 17, "col": 24 },
+      "end": { "row": 17, "col": 14 }
+    },
+    {
+      "word": "HEAPINSPECTOR",
+      "direction": "N",
+      "start": { "row": 16, "col": 23 },
+      "end": { "row": 4, "col": 23 }
+    },
+    {
+      "word": "LRUWRAPPER",
+      "direction": "W",
+      "start": { "row": 3, "col": 19 },
+      "end": { "row": 3, "col": 10 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "E",
+      "start": { "row": 5, "col": 16 },
+      "end": { "row": 5, "col": 22 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "N",
+      "start": { "row": 24, "col": 33 },
+      "end": { "row": 17, "col": 33 }
+    },
+    {
+      "word": "CIWORKFLOW",
+      "direction": "W",
+      "start": { "row": 14, "col": 21 },
+      "end": { "row": 14, "col": 12 }
+    },
+    {
+      "word": "ERRORBUDGET",
+      "direction": "S",
+      "start": { "row": 12, "col": 3 },
+      "end": { "row": 22, "col": 3 }
+    },
+    {
+      "word": "SUBSCRIBER",
+      "direction": "W",
+      "start": { "row": 26, "col": 27 },
+      "end": { "row": 26, "col": 18 }
+    },
+    {
+      "word": "CALLABLECHECK",
+      "direction": "W",
+      "start": { "row": 11, "col": 17 },
+      "end": { "row": 11, "col": 5 }
+    },
+    {
+      "word": "OCTOPARSE",
+      "direction": "NW",
+      "start": { "row": 34, "col": 22 },
+      "end": { "row": 26, "col": 14 }
+    }
+  ],
+  "HFWS64": [
+    {
+      "word": "FILESTAT",
+      "direction": "W",
+      "start": { "row": 33, "col": 24 },
+      "end": { "row": 33, "col": 17 }
+    },
+    {
+      "word": "ALLOCATORS",
+      "direction": "NE",
+      "start": { "row": 28, "col": 16 },
+      "end": { "row": 19, "col": 25 }
+    },
+    {
+      "word": "SYNTAXWALKER",
+      "direction": "NE",
+      "start": { "row": 19, "col": 8 },
+      "end": { "row": 8, "col": 19 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "N",
+      "start": { "row": 19, "col": 31 },
+      "end": { "row": 10, "col": 31 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "N",
+      "start": { "row": 20, "col": 34 },
+      "end": { "row": 15, "col": 34 }
+    },
+    {
+      "word": "THROTTLING",
+      "direction": "E",
+      "start": { "row": 2, "col": 14 },
+      "end": { "row": 2, "col": 23 }
+    },
+    {
+      "word": "OBSERVABILITY",
+      "direction": "W",
+      "start": { "row": 7, "col": 24 },
+      "end": { "row": 7, "col": 12 }
+    },
+    {
+      "word": "PATHLIB",
+      "direction": "NW",
+      "start": { "row": 23, "col": 32 },
+      "end": { "row": 17, "col": 26 }
+    },
+    {
+      "word": "TRACINGCONTEXT",
+      "direction": "E",
+      "start": { "row": 25, "col": 20 },
+      "end": { "row": 25, "col": 33 }
+    },
+    {
+      "word": "EXCEPTIONHANDLING",
+      "direction": "W",
+      "start": { "row": 15, "col": 22 },
+      "end": { "row": 15, "col": 6 }
+    }
+  ],
+  "HFWS65": [
+    {
+      "word": "LISTFILTERING",
+      "direction": "E",
+      "start": { "row": 20, "col": 13 },
+      "end": { "row": 20, "col": 25 }
+    },
+    {
+      "word": "OPCODEHANDLER",
+      "direction": "W",
+      "start": { "row": 16, "col": 18 },
+      "end": { "row": 16, "col": 6 }
+    },
+    {
+      "word": "BYTELOAD",
+      "direction": "NE",
+      "start": { "row": 24, "col": 23 },
+      "end": { "row": 17, "col": 30 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "SE",
+      "start": { "row": 3, "col": 15 },
+      "end": { "row": 12, "col": 24 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "SE",
+      "start": { "row": 7, "col": 16 },
+      "end": { "row": 15, "col": 24 }
+    },
+    {
+      "word": "ROLLBACK",
+      "direction": "NW",
+      "start": { "row": 8, "col": 26 },
+      "end": { "row": 1, "col": 19 }
+    },
+    {
+      "word": "ISSUBCLASSCHECK",
+      "direction": "E",
+      "start": { "row": 12, "col": 2 },
+      "end": { "row": 12, "col": 16 }
+    },
+    {
+      "word": "TESTHARNESS",
+      "direction": "E",
+      "start": { "row": 29, "col": 15 },
+      "end": { "row": 29, "col": 25 }
+    },
+    {
+      "word": "PYDOCSTYLE",
+      "direction": "SW",
+      "start": { "row": 16, "col": 32 },
+      "end": { "row": 25, "col": 23 }
+    },
+    {
+      "word": "MIDDLEWARE",
+      "direction": "E",
+      "start": { "row": 17, "col": 1 },
+      "end": { "row": 17, "col": 10 }
+    }
+  ],
+  "HFWS66": [
+    {
+      "word": "LISTINSERT",
+      "direction": "W",
+      "start": { "row": 20, "col": 32 },
+      "end": { "row": 20, "col": 23 }
+    },
+    {
+      "word": "CALLABLEOBJECTS",
+      "direction": "E",
+      "start": { "row": 26, "col": 14 },
+      "end": { "row": 26, "col": 28 }
+    },
+    {
+      "word": "OPCODEQUICKENED",
+      "direction": "E",
+      "start": { "row": 15, "col": 8 },
+      "end": { "row": 15, "col": 22 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "SE",
+      "start": { "row": 1, "col": 18 },
+      "end": { "row": 7, "col": 24 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "W",
+      "start": { "row": 32, "col": 21 },
+      "end": { "row": 32, "col": 16 }
+    },
+    {
+      "word": "ISINSTANCECHECK",
+      "direction": "N",
+      "start": { "row": 26, "col": 5 },
+      "end": { "row": 12, "col": 5 }
+    },
+    {
+      "word": "CLOSUREDETAIL",
+      "direction": "E",
+      "start": { "row": 34, "col": 12 },
+      "end": { "row": 34, "col": 24 }
+    },
+    {
+      "word": "QUERYBUILDER",
+      "direction": "W",
+      "start": { "row": 10, "col": 17 },
+      "end": { "row": 10, "col": 6 }
+    },
+    {
+      "word": "ABTESTING",
+      "direction": "W",
+      "start": { "row": 13, "col": 25 },
+      "end": { "row": 13, "col": 17 }
+    },
+    {
+      "word": "INTERRUPTSIGNAL",
+      "direction": "W",
+      "start": { "row": 29, "col": 24 },
+      "end": { "row": 29, "col": 10 }
+    }
+  ],
+  "HFWS67": [
+    {
+      "word": "RETURNVALUE",
+      "direction": "E",
+      "start": { "row": 29, "col": 10 },
+      "end": { "row": 29, "col": 20 }
+    },
+    {
+      "word": "CONTEXTSTACK",
+      "direction": "E",
+      "start": { "row": 13, "col": 9 },
+      "end": { "row": 13, "col": 20 }
+    },
+    {
+      "word": "CODEOBJECTS",
+      "direction": "W",
+      "start": { "row": 10, "col": 24 },
+      "end": { "row": 10, "col": 14 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "NE",
+      "start": { "row": 15, "col": 23 },
+      "end": { "row": 12, "col": 26 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "W",
+      "start": { "row": 28, "col": 21 },
+      "end": { "row": 28, "col": 13 }
+    },
+    {
+      "word": "CTYPESBRIDGE",
+      "direction": "N",
+      "start": { "row": 23, "col": 7 },
+      "end": { "row": 12, "col": 7 }
+    },
+    {
+      "word": "BACKPRESSURE",
+      "direction": "S",
+      "start": { "row": 11, "col": 8 },
+      "end": { "row": 22, "col": 8 }
+    },
+    {
+      "word": "FINALLYBLOCK",
+      "direction": "E",
+      "start": { "row": 26, "col": 11 },
+      "end": { "row": 26, "col": 22 }
+    },
+    {
+      "word": "CIRCUITBREAKER",
+      "direction": "E",
+      "start": { "row": 12, "col": 10 },
+      "end": { "row": 12, "col": 23 }
+    },
+    {
+      "word": "PUBSUB",
+      "direction": "NW",
+      "start": { "row": 21, "col": 14 },
+      "end": { "row": 16, "col": 9 }
+    }
+  ],
+  "HFWS68": [
+    {
+      "word": "LISTMETHODS",
+      "direction": "W",
+      "start": { "row": 23, "col": 27 },
+      "end": { "row": 23, "col": 17 }
+    },
+    {
+      "word": "BYTELOAD",
+      "direction": "S",
+      "start": { "row": 5, "col": 23 },
+      "end": { "row": 12, "col": 23 }
+    },
+    {
+      "word": "BYTEORDER",
+      "direction": "W",
+      "start": { "row": 25, "col": 31 },
+      "end": { "row": 25, "col": 23 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "S",
+      "start": { "row": 14, "col": 28 },
+      "end": { "row": 22, "col": 28 }
+    },
+    {
+      "word": "READABLE",
+      "direction": "E",
+      "start": { "row": 16, "col": 13 },
+      "end": { "row": 16, "col": 20 }
+    },
+    {
+      "word": "SELENIUM",
+      "direction": "N",
+      "start": { "row": 29, "col": 11 },
+      "end": { "row": 22, "col": 11 }
+    },
+    {
+      "word": "CONTINUOUSDELIVERY",
+      "direction": "W",
+      "start": { "row": 13, "col": 24 },
+      "end": { "row": 13, "col": 7 }
+    },
+    {
+      "word": "CHERRYPY",
+      "direction": "S",
+      "start": { "row": 4, "col": 22 },
+      "end": { "row": 11, "col": 22 }
+    },
+    {
+      "word": "ABTESTING",
+      "direction": "S",
+      "start": { "row": 14, "col": 3 },
+      "end": { "row": 22, "col": 3 }
+    },
+    {
+      "word": "SETUPTOOLS",
+      "direction": "N",
+      "start": { "row": 21, "col": 5 },
+      "end": { "row": 12, "col": 5 }
+    }
+  ],
+  "HFWS69": [
+    {
+      "word": "NAMELIST",
+      "direction": "E",
+      "start": { "row": 4, "col": 16 },
+      "end": { "row": 4, "col": 23 }
+    },
+    {
+      "word": "FINALIZATION",
+      "direction": "S",
+      "start": { "row": 11, "col": 33 },
+      "end": { "row": 22, "col": 33 }
+    },
+    {
+      "word": "GARBAGEPASS",
+      "direction": "E",
+      "start": { "row": 8, "col": 12 },
+      "end": { "row": 8, "col": 22 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "E",
+      "start": { "row": 21, "col": 16 },
+      "end": { "row": 21, "col": 25 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "E",
+      "start": { "row": 25, "col": 12 },
+      "end": { "row": 25, "col": 19 }
+    },
+    {
+      "word": "SECURITYAUDIT",
+      "direction": "S",
+      "start": { "row": 5, "col": 24 },
+      "end": { "row": 17, "col": 24 }
+    },
+    {
+      "word": "REPLLOOP",
+      "direction": "SW",
+      "start": { "row": 16, "col": 12 },
+      "end": { "row": 23, "col": 5 }
+    },
+    {
+      "word": "GLOBALSCOPE",
+      "direction": "W",
+      "start": { "row": 12, "col": 19 },
+      "end": { "row": 12, "col": 9 }
+    },
+    {
+      "word": "BASELINE",
+      "direction": "S",
+      "start": { "row": 10, "col": 23 },
+      "end": { "row": 17, "col": 23 }
+    },
+    {
+      "word": "TRACINGCONTEXT",
+      "direction": "S",
+      "start": { "row": 13, "col": 7 },
+      "end": { "row": 26, "col": 7 }
+    }
+  ],
+  "HFWS70": [
+    {
+      "word": "JOINPATH",
+      "direction": "SW",
+      "start": { "row": 17, "col": 27 },
+      "end": { "row": 24, "col": 20 }
+    },
+    {
+      "word": "OBJECTSPACE",
+      "direction": "S",
+      "start": { "row": 22, "col": 14 },
+      "end": { "row": 32, "col": 14 }
+    },
+    {
+      "word": "INTERPRETERLOOP",
+      "direction": "E",
+      "start": { "row": 17, "col": 6 },
+      "end": { "row": 17, "col": 20 }
+    },
+    {
+      "word": "SPARSE",
+      "direction": "E",
+      "start": { "row": 11, "col": 3 },
+      "end": { "row": 11, "col": 8 }
+    },
+    {
+      "word": "BEAUTIFUL",
+      "direction": "S",
+      "start": { "row": 17, "col": 31 },
+      "end": { "row": 25, "col": 31 }
+    },
+    {
+      "word": "ALERTMANAGER",
+      "direction": "E",
+      "start": { "row": 10, "col": 4 },
+      "end": { "row": 10, "col": 15 }
+    },
+    {
+      "word": "WEAKREFPROXY",
+      "direction": "SW",
+      "start": { "row": 12, "col": 33 },
+      "end": { "row": 23, "col": 22 }
+    },
+    {
+      "word": "PYSNOOPER",
+      "direction": "E",
+      "start": { "row": 2, "col": 15 },
+      "end": { "row": 2, "col": 23 }
+    },
+    {
+      "word": "INTERPOPTIM",
+      "direction": "E",
+      "start": { "row": 6, "col": 16 },
+      "end": { "row": 6, "col": 26 }
+    },
+    {
+      "word": "RELEASEPIPELINE",
+      "direction": "E",
+      "start": { "row": 14, "col": 4 },
+      "end": { "row": 14, "col": 18 }
+    }
+  ],
+  "HFWS71": [
+    {
+      "word": "INHERITANCE",
+      "direction": "E",
+      "start": { "row": 25, "col": 16 },
+      "end": { "row": 25, "col": 26 }
+    },
+    {
+      "word": "SEMAPHORELOCK",
+      "direction": "E",
+      "start": { "row": 10, "col": 8 },
+      "end": { "row": 10, "col": 20 }
+    },
+    {
+      "word": "FASTLOCALS",
+      "direction": "N",
+      "start": { "row": 12, "col": 23 },
+      "end": { "row": 3, "col": 23 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "SW",
+      "start": { "row": 13, "col": 30 },
+      "end": { "row": 20, "col": 23 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "N",
+      "start": { "row": 32, "col": 16 },
+      "end": { "row": 29, "col": 16 }
+    },
+    {
+      "word": "PYCRYPT",
+      "direction": "N",
+      "start": { "row": 12, "col": 19 },
+      "end": { "row": 6, "col": 19 }
+    },
+    {
+      "word": "MROCHAIN",
+      "direction": "SE",
+      "start": { "row": 17, "col": 27 },
+      "end": { "row": 24, "col": 34 }
+    },
+    {
+      "word": "GENISM",
+      "direction": "SE",
+      "start": { "row": 14, "col": 28 },
+      "end": { "row": 19, "col": 33 }
+    },
+    {
+      "word": "ISOLATEDENV",
+      "direction": "W",
+      "start": { "row": 22, "col": 30 },
+      "end": { "row": 22, "col": 20 }
+    },
+    {
+      "word": "PUBSUB",
+      "direction": "E",
+      "start": { "row": 21, "col": 16 },
+      "end": { "row": 21, "col": 21 }
+    }
+  ],
+  "HFWS72": [
+    {
+      "word": "SETSUPPORT",
+      "direction": "S",
+      "start": { "row": 17, "col": 7 },
+      "end": { "row": 26, "col": 7 }
+    },
+    {
+      "word": "BYTECODEANALYSIS",
+      "direction": "E",
+      "start": { "row": 23, "col": 12 },
+      "end": { "row": 23, "col": 27 }
+    },
+    {
+      "word": "WEAKMAPPING",
+      "direction": "S",
+      "start": { "row": 16, "col": 6 },
+      "end": { "row": 26, "col": 6 }
+    },
+    {
+      "word": "PRACTICAL",
+      "direction": "W",
+      "start": { "row": 22, "col": 21 },
+      "end": { "row": 22, "col": 13 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "SW",
+      "start": { "row": 25, "col": 16 },
+      "end": { "row": 31, "col": 10 }
+    },
+    {
+      "word": "CANARYRELEASE",
+      "direction": "SE",
+      "start": { "row": 6, "col": 15 },
+      "end": { "row": 18, "col": 27 }
+    },
+    {
+      "word": "MESSAGEQUEUE",
+      "direction": "N",
+      "start": { "row": 22, "col": 5 },
+      "end": { "row": 11, "col": 5 }
+    },
+    {
+      "word": "TABNINE",
+      "direction": "S",
+      "start": { "row": 27, "col": 16 },
+      "end": { "row": 33, "col": 16 }
+    },
+    {
+      "word": "CONSTRUCTOR",
+      "direction": "NE",
+      "start": { "row": 25, "col": 19 },
+      "end": { "row": 15, "col": 29 }
+    },
+    {
+      "word": "OPENAICODEX",
+      "direction": "E",
+      "start": { "row": 6, "col": 16 },
+      "end": { "row": 6, "col": 26 }
+    }
+  ],
+  "HFWS73": [
+    {
+      "word": "BOOLELOGIC",
+      "direction": "E",
+      "start": { "row": 26, "col": 20 },
+      "end": { "row": 26, "col": 29 }
+    },
+    {
+      "word": "LOCKCONTENTION",
+      "direction": "NE",
+      "start": { "row": 32, "col": 10 },
+      "end": { "row": 19, "col": 23 }
+    },
+    {
+      "word": "LINENOISE",
+      "direction": "NE",
+      "start": { "row": 15, "col": 15 },
+      "end": { "row": 7, "col": 23 }
+    },
+    {
+      "word": "EXPLICIT",
+      "direction": "S",
+      "start": { "row": 14, "col": 32 },
+      "end": { "row": 21, "col": 32 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "NE",
+      "start": { "row": 27, "col": 12 },
+      "end": { "row": 22, "col": 17 }
+    },
+    {
+      "word": "ROLLBACK",
+      "direction": "S",
+      "start": { "row": 18, "col": 4 },
+      "end": { "row": 25, "col": 4 }
+    },
+    {
+      "word": "ENTRYPOINT",
+      "direction": "NW",
+      "start": { "row": 24, "col": 13 },
+      "end": { "row": 15, "col": 4 }
+    },
+    {
+      "word": "FUZZING",
+      "direction": "N",
+      "start": { "row": 15, "col": 23 },
+      "end": { "row": 9, "col": 23 }
+    },
+    {
+      "word": "FINALIZERS",
+      "direction": "SW",
+      "start": { "row": 22, "col": 21 },
+      "end": { "row": 31, "col": 12 }
+    },
+    {
+      "word": "INTERRUPTSIGNAL",
+      "direction": "N",
+      "start": { "row": 26, "col": 30 },
+      "end": { "row": 12, "col": 30 }
+    }
+  ],
+  "HFWS74": [
+    {
+      "word": "FILEHANDLE",
+      "direction": "S",
+      "start": { "row": 7, "col": 18 },
+      "end": { "row": 16, "col": 18 }
+    },
+    {
+      "word": "DESCRIPTORCHAIN",
+      "direction": "SW",
+      "start": { "row": 13, "col": 32 },
+      "end": { "row": 27, "col": 18 }
+    },
+    {
+      "word": "JAVACOMPAT",
+      "direction": "N",
+      "start": { "row": 21, "col": 34 },
+      "end": { "row": 12, "col": 34 }
+    },
+    {
+      "word": "COMPLEX",
+      "direction": "N",
+      "start": { "row": 13, "col": 26 },
+      "end": { "row": 7, "col": 26 }
+    },
+    {
+      "word": "ERRORS",
+      "direction": "E",
+      "start": { "row": 28, "col": 11 },
+      "end": { "row": 28, "col": 16 }
+    },
+    {
+      "word": "FREEVARIABLE",
+      "direction": "SW",
+      "start": { "row": 12, "col": 31 },
+      "end": { "row": 23, "col": 20 }
+    },
+    {
+      "word": "TORNADO",
+      "direction": "S",
+      "start": { "row": 14, "col": 35 },
+      "end": { "row": 20, "col": 35 }
+    },
+    {
+      "word": "FORWARDCOMPAT",
+      "direction": "N",
+      "start": { "row": 13, "col": 22 },
+      "end": { "row": 1, "col": 22 }
+    },
+    {
+      "word": "REQUESTID",
+      "direction": "NW",
+      "start": { "row": 29, "col": 18 },
+      "end": { "row": 21, "col": 10 }
+    },
+    {
+      "word": "ISOLATEDENV",
+      "direction": "E",
+      "start": { "row": 3, "col": 10 },
+      "end": { "row": 3, "col": 20 }
+    }
+  ],
+  "HFWS75": [
+    {
+      "word": "ROUNDMETHOD",
+      "direction": "E",
+      "start": { "row": 3, "col": 10 },
+      "end": { "row": 3, "col": 20 }
+    },
+    {
+      "word": "GLOBALSCOPEVARS",
+      "direction": "S",
+      "start": { "row": 3, "col": 24 },
+      "end": { "row": 17, "col": 24 }
+    },
+    {
+      "word": "INLINECACHE",
+      "direction": "S",
+      "start": { "row": 16, "col": 31 },
+      "end": { "row": 26, "col": 31 }
+    },
+    {
+      "word": "NAMESPACES",
+      "direction": "SW",
+      "start": { "row": 13, "col": 30 },
+      "end": { "row": 22, "col": 21 }
+    },
+    {
+      "word": "FLAT",
+      "direction": "SW",
+      "start": { "row": 18, "col": 8 },
+      "end": { "row": 21, "col": 5 }
+    },
+    {
+      "word": "METHODOBJECT",
+      "direction": "N",
+      "start": { "row": 12, "col": 22 },
+      "end": { "row": 1, "col": 22 }
+    },
+    {
+      "word": "GRACEFULSHUTDOWN",
+      "direction": "E",
+      "start": { "row": 13, "col": 5 },
+      "end": { "row": 13, "col": 20 }
+    },
+    {
+      "word": "TYPEGUARD",
+      "direction": "NE",
+      "start": { "row": 22, "col": 1 },
+      "end": { "row": 14, "col": 9 }
+    },
+    {
+      "word": "INTERRUPTSIGNAL",
+      "direction": "S",
+      "start": { "row": 12, "col": 30 },
+      "end": { "row": 26, "col": 30 }
+    },
+    {
+      "word": "DUNDERINIT",
+      "direction": "E",
+      "start": { "row": 24, "col": 17 },
+      "end": { "row": 24, "col": 26 }
+    }
+  ]
+}

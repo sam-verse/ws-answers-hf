@@ -1,0 +1,495 @@
+/* Responsive code entry area and grid container */
+.container {
+  max-width: 1200px;
+  width: 100%;
+}
+.entry-area {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  align-self: center;
+}
+@media (max-width: 900px) {
+  .container {
+    max-width: 98vw;
+    padding: 1rem 0.5rem;
+  }
+  .entry-area {
+    max-width: 98vw;
+    padding: 0.5rem 0.2rem;
+  }
+}
+@media (max-width: 600px) {
+  .container {
+    max-width: 100vw;
+    padding: 0.5rem 0.1rem;
+    border-radius: 10px;
+  }
+  .entry-area {
+    max-width: 100vw;
+    padding: 0.2rem 0.05rem;
+  }
+  .input-code {
+    font-size: 1rem;
+    padding: 0.7em 0.8em;
+    border-radius: 8px;
+  }
+  .btn-show {
+    font-size: 1rem;
+    padding: 0.7em 0.8em;
+    border-radius: 8px;
+  }
+}
+/* Responsive answers-list section */
+.answers-list {
+  margin-top: 1.5rem;
+  background: #fffef9;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #ff980022;
+  padding: 1rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 1rem;
+  /* color: #ff9800; */
+}
+.answers-list .answers-title {
+  font-weight: 700;
+  margin-bottom: 0.7rem;
+  color: #ff5a00;
+  font-size: 1.1rem;
+}
+.answers-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.answers-list li {
+  margin-bottom: 0.5em;
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  flex-wrap: wrap;
+}
+.answers-list .word {
+  font-weight: 700;
+  min-width: 110px;
+  display: inline-block;
+}
+.answers-list .direction {
+  font-weight: 600;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Montserrat:wght@400;500&display=swap');
+}
+.answers-list .coords {
+  color: #888;
+  font-size: 0.95em;
+}
+@media (max-width: 600px) {
+  .answers-list {
+    padding: 0.5rem;
+    font-size: 0.92rem;
+  }
+  .answers-list .answers-title {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .answers-list li {
+    gap: 0.4em;
+    font-size: 0.92rem;
+  }
+  .answers-list .word {
+    min-width: 80px;
+    font-size: 0.98em;
+  }
+}
+/* Responsive crossword grid */
+.grid-area {
+  overflow-x: auto;
+  margin-bottom: 2rem;
+  border-radius: 14px;
+  box-shadow: 0 4px 18px #ff980022;
+  background: #fffef9;
+  padding: 1rem;
+  max-width: 100vw;
+}
+.crossword-table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  box-shadow: 0 2px 12px #e0e0e044;
+  table-layout: fixed;
+  width: 100%;
+}
+.crossword-cell {
+  width: 2.2em;
+  height: 2.2em;
+  aspect-ratio: 1 / 1;
+  text-align: center;
+  border: 2px solid #ffe0b2;
+  font-weight: 600;
+  font-family: 'Montserrat', 'Roboto Mono', Arial, sans-serif;
+  font-size: 1.1rem;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  background: #fff;
+  color: #333;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px #e0e0e044;
+  vertical-align: middle;
+  padding: 0;
+  box-sizing: border-box;
+}
+@media (max-width: 900px) {
+  .grid-area {
+    padding: 0.5rem;
+    margin-bottom: 1.2rem;
+    max-width: 100vw;
+  }
+  .crossword-cell {
+    width: 1.5em;
+    height: 1.5em;
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 600px) {
+  .grid-area {
+    padding: 0.2rem;
+    margin-bottom: 0.7rem;
+    max-width: 100vw;
+  }
+  .crossword-cell {
+    width: 1em;
+    height: 1em;
+    font-size: 0.7rem;
+  }
+}
+/* Custom placeholder color for input-code */
+.input-code::placeholder {
+  color: #888;
+  opacity: 1;
+}
+        @media (max-width: 600px) {
+          .color-key {
+            padding: 0.7rem 0.5rem;
+            max-width: 98vw;
+            gap: 0.5rem;
+          }
+          .color-key h3 {
+            font-size: 0.95rem;
+            margin-bottom: 0.3rem;
+          }
+          .key-item {
+            font-size: 0.85rem;
+            padding: 0.3rem 0.4rem;
+            gap: 0.4rem;
+          }
+          .key-color {
+            width: 13px;
+            height: 13px;
+          }
+          .key-word {
+            font-size: 0.85rem;
+            padding: 0.08em 0.3em;
+          }
+          .key-loc {
+            font-size: 0.8rem;
+          }
+        }
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Montserrat:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&family=Roboto+Mono:wght@400;700&display=swap');
+        .main-bg {
+          /* background: linear-gradient(120deg, #f8fafc 60%, #ffe0b2 100%); */
+          min-height: 100vh;
+          padding: 3vw;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-family: 'Montserrat', Arial, sans-serif;
+        }
+        .container {
+          max-width: 900px;
+          width: 100%;
+          background: #fff;
+          border-radius: 32px;
+          box-shadow: 0 8px 32px #e0e0e0cc;
+          padding: 3rem 2.5rem;
+          margin: 2vw auto;
+          border: none;
+          font-family: 'Montserrat', Arial, sans-serif;
+        }
+        .title {
+          color: #ff9800;
+          font-size: 2.8rem;
+          font-weight: 700;
+          margin-bottom: 2rem;
+          text-align: center;
+          letter-spacing: 1.5px;
+          font-family: 'Playfair Display', 'Montserrat', Arial, sans-serif;
+          text-shadow: 0 2px 12px #ff980033;
+        }
+        .form-area {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-bottom: 2.5rem;
+          gap: 1.2rem;
+        }
+        .input-code {
+          font-size: 1.15rem;
+          padding: 0.8em 1.3em;
+          border-radius: 16px;
+          border: 2px solid #e0e0e0;
+          outline: none;
+          transition: border 0.2s, box-shadow 0.2s;
+          width: 220px;
+          background: #f8fafc;
+          font-family: 'Montserrat', Arial, sans-serif;
+          font-weight: 400;
+          box-shadow: 0 2px 8px #e0e0e044;
+        }
+        .input-code:focus {
+          border: 2px solid #ff9800;
+          box-shadow: 0 0 0 3px #ff980044;
+        }
+        .btn-show {
+          background: linear-gradient(90deg, #ff5a00 70%, #ff9800 100%);
+          color: #fff;
+          font-weight: 600;
+          border: none;
+          border-radius: 12px;
+          padding: 0.9em 2.2em;
+          font-size: 1.1rem;
+          cursor: pointer;
+          box-shadow: 0 2px 8px #ff980022;
+          transition: background 0.35s cubic-bezier(.4,0,.2,1), filter 0.25s cubic-bezier(.4,0,.2,1);
+          font-family: 'Montserrat', Arial, sans-serif;
+        }
+        .btn-show:hover {
+          background: linear-gradient(90deg, #ff9800 70%, #ff5a00 100%);
+          filter: brightness(1.08);
+        }
+        .grid-area {
+          overflow-x: auto;
+          margin-bottom: 2.5rem;
+          border-radius: 18px;
+          box-shadow: 0 4px 24px #e0e0e0cc;
+          background: #fffef9;
+          padding: 1.5rem;
+          scrollbar-width: thin;
+          scrollbar-color: #ff9800 #ffe0b2;
+        }
+
+        .grid-area::-webkit-scrollbar {
+          height: 10px;
+          width: 10px;
+          background: #ffe0b2;
+          border-radius: 8px;
+        }
+        .grid-area::-webkit-scrollbar-thumb {
+          background: linear-gradient(90deg, #ff9800 60%, #fb8c00 100%);
+          border-radius: 8px;
+          border: 2px solid #ffe0b2;
+        }
+        .grid-area::-webkit-scrollbar-track {
+          background: #ffe0b2;
+          border-radius: 8px;
+        }
+        .crossword-table {
+          border-collapse: collapse;
+          margin: 0 auto;
+          box-shadow: 0 2px 12px #e0e0e044;
+          table-layout: fixed;
+          width: 100%;
+        }
+        .crossword-cell {
+          width: 2.2em;
+          height: 2.2em;
+          aspect-ratio: 1 / 1;
+          text-align: center;
+          border: 2px solid #ffd392;
+          font-weight: 600;
+          font-family: 'Montserrat', 'Roboto Mono', Arial, sans-serif;
+          font-size: 1.15rem;
+          transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+          background: #fff;
+          color: #333;
+          border-radius: 6px;
+          box-shadow: 0 1px 4px #e0e0e044;
+          vertical-align: middle;
+          padding: 0;
+          box-sizing: border-box;
+          text-align: center;
+        }
+        .crossword-cell[style*="background: #ff9800"] {
+          background: #ff9800 !important;
+        }
+        .crossword-cell[style*="background: #fb8c00"] {
+          background: #fb8c00 !important;
+        }
+        .not-found {
+          color: #ff5722;
+          font-weight: 600;
+          font-size: 1.25rem;
+          text-align: center;
+          margin-bottom: 2.5rem;
+          font-family: 'Montserrat', Arial, sans-serif;
+        }
+        .color-key {
+          margin-top: 2rem;
+          margin-bottom: 1.5rem;
+          text-align: left;
+          background: #f8fafc;
+          border-radius: 18px;
+          box-shadow: 0 2px 12px #e0e0e044;
+          padding: 1.2rem 1.5rem;
+          width: 100%;
+          min-width: 0;
+          display: grid;
+          grid-template-columns: 1fr;
+          gap: 1rem;
+        }
+        .color-key h3 {
+          color: #ff9800;
+          font-size: 1.1rem;
+          margin-bottom: 1rem;
+          font-family: 'Montserrat', Arial, sans-serif;
+          font-weight: 600;
+          letter-spacing: 1px;
+          grid-column: 1/-1;
+          text-align: center;
+        }
+        .key-item {
+          font-size: 1rem;
+          display: flex;
+          align-items: center;
+          gap: 0.7rem;
+          font-family: 'Montserrat', Arial, sans-serif;
+          /* background: #fff; */
+          border-radius: 10px;
+          box-shadow: 0 1px 4px #e0e0e022;
+          padding: 0.7rem 1rem;
+          min-width: 0;
+          width: 100%;
+          box-sizing: border-box;
+        }
+        .key-color {
+          width: 22px;
+          height: 22px;
+          border-radius: 6px;
+          margin-right: 0;
+          border: none;
+          box-shadow: 0 1px 4px #e0e0e044;
+        }
+        .key-word {
+          font-weight: 600;
+          color: #333;
+          font-family: 'Montserrat', Arial, sans-serif;
+          background: #ffe0b2;
+          border-radius: 5px;
+          padding: 0.15em 0.7em;
+        }
+        .key-loc {
+          margin-left: 0;
+          color: #888;
+          font-size: 0.92rem;
+          font-family: 'Montserrat', Arial, sans-serif;
+        }
+        @media (max-width: 900px) {
+          .color-key {
+            grid-template-columns: 1fr;
+            padding: 0.7rem 0.5rem;
+            gap: 0.7rem;
+          }
+        }
+        @media (max-width: 600px) {
+          .color-key {
+            grid-template-columns: 1fr;
+            padding: 0.5rem 0.2rem;
+            gap: 0.5rem;
+          }
+          .color-key h3 {
+            font-size: 0.95rem;
+            margin-bottom: 0.3rem;
+          }
+          .key-item {
+            font-size: 0.85rem;
+            padding: 0.3rem 0.4rem;
+            gap: 0.4rem;
+          }
+          .key-color {
+            width: 15px;
+            height: 15px;
+          }
+          .key-word {
+            font-size: 0.85rem;
+            padding: 0.08em 0.3em;
+          }
+          .key-loc {
+            font-size: 0.8rem;
+          }
+        }
+        @media (max-width: 900px) {
+          .container {
+            padding: 1.2rem 0.5rem;
+            max-width: 98vw;
+          }
+          .title {
+            font-size: 2rem;
+          }
+          .input-code, .btn-show {
+            font-size: 1rem;
+            padding: 0.5em 1em;
+          }
+          .key-color {
+            width: 15px;
+            height: 15px;
+          }
+          .crossword-cell {
+            width: 1.7em;
+            height: 1.7em;
+            font-size: 0.95rem;
+          }
+        }
+
+        @media (max-width: 600px) {
+          .container {
+            padding: 0.7rem 0.2rem;
+            max-width: 100vw;
+          }
+          .title {
+            font-size: 1.2rem;
+          }
+          .input-code, .btn-show {
+            font-size: 0.95rem;
+            padding: 0.4em 0.7em;
+          }
+          .key-color {
+            width: 13px;
+            height: 13px;
+          }
+          .crossword-cell {
+            width: 1.1em;
+            height: 1.1em;
+            font-size: 0.7rem;
+          }
+        }
+
+        @media (max-width: 900px) {
+          .container {
+            padding: 0.3rem 0.1rem;
+            max-width: 100vw;
+          }
+          .title {
+            font-size: 0.9rem;
+          }
+          .input-code, .btn-show {
+            font-size: 0.8rem;
+            padding: 0.2em 0.4em;
+          }
+          .key-color {
+            width: 9px;
+            height: 9px;
+          }
+          .crossword-cell {
+            width: 0.7em;
+            height: 0.7em;
+            font-size: 0.5rem;
+          }
+        }
+    
